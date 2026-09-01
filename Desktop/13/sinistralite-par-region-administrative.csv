@@ -1,0 +1,1521 @@
+﻿annee;code_region_admin;libelle_region_admin;risque;nb_sinistres;nb_salaries;indice_frequence;nb_sinistres_int;indice_frequence_int
+2005;01;Guadeloupe;Accidents de trajet;214;86011;2,5;214;2.5
+2005;01;Guadeloupe;Accidents du travail;1396;86011;16,2;1396;16.2
+2005;01;Guadeloupe;Maladies professionnelles;20;86011;NC;20;
+2005;01;Guadeloupe;Tous risques confondus;1630;86011;NC;1630;
+2005;02;Martinique;Accidents de trajet;185;89687;2,1;185;2.1
+2005;02;Martinique;Accidents du travail;1520;89687;16,9;1520;16.9
+2005;02;Martinique;Maladies professionnelles;2;89687;NC;2;
+2005;02;Martinique;Tous risques confondus;1707;89687;NC;1707;
+2005;03;Guyane;Accidents de trajet;48;29082;1,7;48;1.7
+2005;03;Guyane;Accidents du travail;428;29082;14,7;428;14.7
+2005;03;Guyane;Maladies professionnelles;5;29082;NC;5;
+2005;03;Guyane;Tous risques confondus;481;29082;NC;481;
+2005;04;La Réunion;Accidents de trajet;389;154410;2,5;389;2.5
+2005;04;La Réunion;Accidents du travail;3766;154410;24,4;3766;24.4
+2005;04;La Réunion;Maladies professionnelles;89;154410;NC;89;
+2005;04;La Réunion;Tous risques confondus;4244;154410;NC;4244;
+2005;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2005;06;Mayotte;Accidents du travail;0;0;NC;0;
+2005;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2005;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2005;11;Ile-de-France;Accidents de trajet;23218;4467957;5,2;23218;5.2
+2005;11;Ile-de-France;Accidents du travail;118545;4467957;26,5;118545;26.5
+2005;11;Ile-de-France;Maladies professionnelles;2611;4467957;NC;2611;
+2005;11;Ile-de-France;Tous risques confondus;144374;4467957;NC;144374;
+2005;24;Centre-Val de Loire;Accidents de trajet;3072;667926;4,6;3072;4.6
+2005;24;Centre-Val de Loire;Accidents du travail;30023;667926;44,9;30023;44.9
+2005;24;Centre-Val de Loire;Maladies professionnelles;1396;667926;NC;1396;
+2005;24;Centre-Val de Loire;Tous risques confondus;34491;667926;NC;34491;
+2005;27;Bourgogne-Franche-Comté;Accidents de trajet;2966;735624;4,0;2966;4.0
+2005;27;Bourgogne-Franche-Comté;Accidents du travail;31965;735624;43,5;31965;43.5
+2005;27;Bourgogne-Franche-Comté;Maladies professionnelles;1680;735624;NC;1680;
+2005;27;Bourgogne-Franche-Comté;Tous risques confondus;36611;735624;NC;36611;
+2005;28;Normandie;Accidents de trajet;3774;910513;4,1;3774;4.1
+2005;28;Normandie;Accidents du travail;36532;910513;40,1;36532;40.1
+2005;28;Normandie;Maladies professionnelles;1528;910513;NC;1528;
+2005;28;Normandie;Tous risques confondus;41834;910513;NC;41834;
+2005;32;Hauts-de-France;Accidents de trajet;5674;1578455;3,6;5674;3.6
+2005;32;Hauts-de-France;Accidents du travail;63591;1578455;40,3;63591;40.3
+2005;32;Hauts-de-France;Maladies professionnelles;1105;1578455;NC;1105;
+2005;32;Hauts-de-France;Tous risques confondus;70370;1578455;NC;70370;
+2005;44;Grand Est;Accidents de trajet;6142;1463724;4,2;6142;4.2
+2005;44;Grand Est;Accidents du travail;63031;1463724;43,1;63031;43.1
+2005;44;Grand Est;Maladies professionnelles;3583;1463724;NC;3583;
+2005;44;Grand Est;Tous risques confondus;72756;1463724;NC;72756;
+2005;52;Pays de la Loire;Accidents de trajet;4264;991699;4,3;4264;4.3
+2005;52;Pays de la Loire;Accidents du travail;42581;991699;42,9;42581;42.9
+2005;52;Pays de la Loire;Maladies professionnelles;2576;991699;NC;2576;
+2005;52;Pays de la Loire;Tous risques confondus;49421;991699;NC;49421;
+2005;53;Bretagne;Accidents de trajet;2927;809696;3,6;2927;3.6
+2005;53;Bretagne;Accidents du travail;36227;809696;44,7;36227;44.7
+2005;53;Bretagne;Maladies professionnelles;3665;809696;NC;3665;
+2005;53;Bretagne;Tous risques confondus;42819;809696;NC;42819;
+2005;75;Nouvelle-Aquitaine;Accidents de trajet;5547;1391769;4,0;5547;4.0
+2005;75;Nouvelle-Aquitaine;Accidents du travail;56839;1391769;40,8;56839;40.8
+2005;75;Nouvelle-Aquitaine;Maladies professionnelles;1447;1391769;NC;1447;
+2005;75;Nouvelle-Aquitaine;Tous risques confondus;63833;1391769;NC;63833;
+2005;76;Occitanie;Accidents de trajet;5157;1280732;4,0;5157;4.0
+2005;76;Occitanie;Accidents du travail;54214;1280732;42,3;54214;42.3
+2005;76;Occitanie;Maladies professionnelles;1109;1280732;NC;1109;
+2005;76;Occitanie;Tous risques confondus;60480;1280732;NC;60480;
+2005;84;Auvergne-Rhône-Alpes;Accidents de trajet;9257;2237916;4,1;9257;4.1
+2005;84;Auvergne-Rhône-Alpes;Accidents du travail;96685;2237916;43,2;96685;43.2
+2005;84;Auvergne-Rhône-Alpes;Maladies professionnelles;2176;2237916;NC;2176;
+2005;84;Auvergne-Rhône-Alpes;Tous risques confondus;108118;2237916;NC;108118;
+2005;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;6377;1250413;5,1;6377;5.1
+2005;93;Provence-Alpes-Côte d'Azur;Accidents du travail;54049;1250413;43,2;54049;43.2
+2005;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1178;1250413;NC;1178;
+2005;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;61604;1250413;NC;61604;
+2005;94;Corse;Accidents de trajet;314;66383;4,7;314;4.7
+2005;94;Corse;Accidents du travail;3330;66383;50,2;3330;50.2
+2005;94;Corse;Maladies professionnelles;151;66383;NC;151;
+2005;94;Corse;Tous risques confondus;3795;66383;NC;3795;
+2005;99;FRANCE;Accidents de trajet;79525;18211997;4,4;79525;4.4
+2005;99;FRANCE;Accidents du travail;694722;18211997;38,1;694722;38.1
+2005;99;FRANCE;Maladies professionnelles;24321;18211997;NC;24321;
+2005;99;FRANCE;Tous risques confondus;798568;18211997;NC;798568;
+2006;01;Guadeloupe;Accidents de trajet;175;86983;2,0;175;2.0
+2006;01;Guadeloupe;Accidents du travail;1192;86983;13,7;1192;13.7
+2006;01;Guadeloupe;Maladies professionnelles;19;86983;NC;19;
+2006;01;Guadeloupe;Tous risques confondus;1386;86983;NC;1386;
+2006;02;Martinique;Accidents de trajet;279;92607;3,0;279;3.0
+2006;02;Martinique;Accidents du travail;2203;92607;23,8;2203;23.8
+2006;02;Martinique;Maladies professionnelles;4;92607;NC;4;
+2006;02;Martinique;Tous risques confondus;2486;92607;NC;2486;
+2006;03;Guyane;Accidents de trajet;48;29653;1,6;48;1.6
+2006;03;Guyane;Accidents du travail;373;29653;12,6;373;12.6
+2006;03;Guyane;Maladies professionnelles;10;29653;NC;10;
+2006;03;Guyane;Tous risques confondus;431;29653;NC;431;
+2006;04;La Réunion;Accidents de trajet;433;160937;2,7;433;2.7
+2006;04;La Réunion;Accidents du travail;3728;160937;23,2;3728;23.2
+2006;04;La Réunion;Maladies professionnelles;76;160937;NC;76;
+2006;04;La Réunion;Tous risques confondus;4237;160937;NC;4237;
+2006;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2006;06;Mayotte;Accidents du travail;0;0;NC;0;
+2006;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2006;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2006;11;Ile-de-France;Accidents de trajet;22760;4525851;5,0;22760;5.0
+2006;11;Ile-de-France;Accidents du travail;118561;4525851;26,2;118561;26.2
+2006;11;Ile-de-France;Maladies professionnelles;2698;4525851;NC;2698;
+2006;11;Ile-de-France;Tous risques confondus;144019;4525851;NC;144019;
+2006;24;Centre-Val de Loire;Accidents de trajet;2860;657062;4,4;2860;4.4
+2006;24;Centre-Val de Loire;Accidents du travail;29232;657062;44,5;29232;44.5
+2006;24;Centre-Val de Loire;Maladies professionnelles;1341;657062;NC;1341;
+2006;24;Centre-Val de Loire;Tous risques confondus;33433;657062;NC;33433;
+2006;27;Bourgogne-Franche-Comté;Accidents de trajet;3131;726686;4,3;3131;4.3
+2006;27;Bourgogne-Franche-Comté;Accidents du travail;32374;726686;44,6;32374;44.6
+2006;27;Bourgogne-Franche-Comté;Maladies professionnelles;1632;726686;NC;1632;
+2006;27;Bourgogne-Franche-Comté;Tous risques confondus;37137;726686;NC;37137;
+2006;28;Normandie;Accidents de trajet;3868;897563;4,3;3868;4.3
+2006;28;Normandie;Accidents du travail;36477;897563;40,6;36477;40.6
+2006;28;Normandie;Maladies professionnelles;1681;897563;NC;1681;
+2006;28;Normandie;Tous risques confondus;42026;897563;NC;42026;
+2006;32;Hauts-de-France;Accidents de trajet;5506;1530260;3,6;5506;3.6
+2006;32;Hauts-de-France;Accidents du travail;61452;1530260;40,2;61452;40.2
+2006;32;Hauts-de-France;Maladies professionnelles;965;1530260;NC;965;
+2006;32;Hauts-de-France;Tous risques confondus;67923;1530260;NC;67923;
+2006;44;Grand Est;Accidents de trajet;5921;1447610;4,1;5921;4.1
+2006;44;Grand Est;Accidents du travail;60972;1447610;42,1;60972;42.1
+2006;44;Grand Est;Maladies professionnelles;3805;1447610;NC;3805;
+2006;44;Grand Est;Tous risques confondus;70698;1447610;NC;70698;
+2006;52;Pays de la Loire;Accidents de trajet;4336;994769;4,4;4336;4.4
+2006;52;Pays de la Loire;Accidents du travail;43992;994769;44,2;43992;44.2
+2006;52;Pays de la Loire;Maladies professionnelles;3542;994769;NC;3542;
+2006;52;Pays de la Loire;Tous risques confondus;51870;994769;NC;51870;
+2006;53;Bretagne;Accidents de trajet;3054;812658;3,8;3054;3.8
+2006;53;Bretagne;Accidents du travail;37100;812658;45,7;37100;45.7
+2006;53;Bretagne;Maladies professionnelles;3751;812658;NC;3751;
+2006;53;Bretagne;Tous risques confondus;43905;812658;NC;43905;
+2006;75;Nouvelle-Aquitaine;Accidents de trajet;5816;1390781;4,2;5816;4.2
+2006;75;Nouvelle-Aquitaine;Accidents du travail;58452;1390781;42,0;58452;42.0
+2006;75;Nouvelle-Aquitaine;Maladies professionnelles;1442;1390781;NC;1442;
+2006;75;Nouvelle-Aquitaine;Tous risques confondus;65710;1390781;NC;65710;
+2006;76;Occitanie;Accidents de trajet;5074;1296310;3,9;5074;3.9
+2006;76;Occitanie;Accidents du travail;55062;1296310;42,5;55062;42.5
+2006;76;Occitanie;Maladies professionnelles;1227;1296310;NC;1227;
+2006;76;Occitanie;Tous risques confondus;61363;1296310;NC;61363;
+2006;84;Auvergne-Rhône-Alpes;Accidents de trajet;9424;2206732;4,3;9424;4.3
+2006;84;Auvergne-Rhône-Alpes;Accidents du travail;96710;2206732;43,8;96710;43.8
+2006;84;Auvergne-Rhône-Alpes;Maladies professionnelles;2081;2206732;NC;2081;
+2006;84;Auvergne-Rhône-Alpes;Tous risques confondus;108215;2206732;NC;108215;
+2006;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;6686;1243180;5,4;6686;5.4
+2006;93;Provence-Alpes-Côte d'Azur;Accidents du travail;54798;1243180;44,1;54798;44.1
+2006;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1230;1243180;NC;1230;
+2006;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;62714;1243180;NC;62714;
+2006;94;Corse;Accidents de trajet;348;66407;5,2;348;5.2
+2006;94;Corse;Accidents du travail;3267;66407;49,2;3267;49.2
+2006;94;Corse;Maladies professionnelles;138;66407;NC;138;
+2006;94;Corse;Tous risques confondus;3753;66407;NC;3753;
+2006;99;FRANCE;Accidents de trajet;79719;18166049;4,4;79719;4.4
+2006;99;FRANCE;Accidents du travail;695945;18166049;38,3;695945;38.3
+2006;99;FRANCE;Maladies professionnelles;25642;18166049;NC;25642;
+2006;99;FRANCE;Tous risques confondus;801306;18166049;NC;801306;
+2007;01;Guadeloupe;Accidents de trajet;214;88320;2,4;214;2.4
+2007;01;Guadeloupe;Accidents du travail;1499;88320;17,0;1499;17.0
+2007;01;Guadeloupe;Maladies professionnelles;28;88320;NC;28;
+2007;01;Guadeloupe;Tous risques confondus;1741;88320;NC;1741;
+2007;02;Martinique;Accidents de trajet;224;88316;2,5;224;2.5
+2007;02;Martinique;Accidents du travail;2217;88316;25,1;2217;25.1
+2007;02;Martinique;Maladies professionnelles;1;88316;NC;1;
+2007;02;Martinique;Tous risques confondus;2442;88316;NC;2442;
+2007;03;Guyane;Accidents de trajet;25;28340;0,9;25;0.9
+2007;03;Guyane;Accidents du travail;370;28340;13,1;370;13.1
+2007;03;Guyane;Maladies professionnelles;8;28340;NC;8;
+2007;03;Guyane;Tous risques confondus;403;28340;NC;403;
+2007;04;La Réunion;Accidents de trajet;520;165841;3,1;520;3.1
+2007;04;La Réunion;Accidents du travail;3937;165841;23,7;3937;23.7
+2007;04;La Réunion;Maladies professionnelles;68;165841;NC;68;
+2007;04;La Réunion;Tous risques confondus;4525;165841;NC;4525;
+2007;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2007;06;Mayotte;Accidents du travail;0;0;NC;0;
+2007;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2007;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2007;11;Ile-de-France;Accidents de trajet;23820;4639175;5,1;23820;5.1
+2007;11;Ile-de-France;Accidents du travail;121675;4639175;26,2;121675;26.2
+2007;11;Ile-de-France;Maladies professionnelles;3589;4639175;NC;3589;
+2007;11;Ile-de-France;Tous risques confondus;149084;4639175;NC;149084;
+2007;24;Centre-Val de Loire;Accidents de trajet;2791;671892;4,2;2791;4.2
+2007;24;Centre-Val de Loire;Accidents du travail;30550;671892;45,5;30550;45.5
+2007;24;Centre-Val de Loire;Maladies professionnelles;1394;671892;NC;1394;
+2007;24;Centre-Val de Loire;Tous risques confondus;34735;671892;NC;34735;
+2007;27;Bourgogne-Franche-Comté;Accidents de trajet;3091;740009;4,2;3091;4.2
+2007;27;Bourgogne-Franche-Comté;Accidents du travail;32805;740009;44,3;32805;44.3
+2007;27;Bourgogne-Franche-Comté;Maladies professionnelles;1815;740009;NC;1815;
+2007;27;Bourgogne-Franche-Comté;Tous risques confondus;37711;740009;NC;37711;
+2007;28;Normandie;Accidents de trajet;3936;911985;4,3;3936;4.3
+2007;28;Normandie;Accidents du travail;37390;911985;41,0;37390;41.0
+2007;28;Normandie;Maladies professionnelles;2070;911985;NC;2070;
+2007;28;Normandie;Tous risques confondus;43396;911985;NC;43396;
+2007;32;Hauts-de-France;Accidents de trajet;5902;1588010;3,7;5902;3.7
+2007;32;Hauts-de-France;Accidents du travail;65962;1588010;41,5;65962;41.5
+2007;32;Hauts-de-France;Maladies professionnelles;3146;1588010;NC;3146;
+2007;32;Hauts-de-France;Tous risques confondus;75010;1588010;NC;75010;
+2007;44;Grand Est;Accidents de trajet;5864;1485534;3,9;5864;3.9
+2007;44;Grand Est;Accidents du travail;62675;1485534;42,2;62675;42.2
+2007;44;Grand Est;Maladies professionnelles;4220;1485534;NC;4220;
+2007;44;Grand Est;Tous risques confondus;72759;1485534;NC;72759;
+2007;52;Pays de la Loire;Accidents de trajet;4462;1016119;4,4;4462;4.4
+2007;52;Pays de la Loire;Accidents du travail;43891;1016119;43,2;43891;43.2
+2007;52;Pays de la Loire;Maladies professionnelles;3416;1016119;NC;3416;
+2007;52;Pays de la Loire;Tous risques confondus;51769;1016119;NC;51769;
+2007;53;Bretagne;Accidents de trajet;2866;815967;3,5;2866;3.5
+2007;53;Bretagne;Accidents du travail;37422;815967;45,9;37422;45.9
+2007;53;Bretagne;Maladies professionnelles;3695;815967;NC;3695;
+2007;53;Bretagne;Tous risques confondus;43983;815967;NC;43983;
+2007;75;Nouvelle-Aquitaine;Accidents de trajet;6246;1456760;4,3;6246;4.3
+2007;75;Nouvelle-Aquitaine;Accidents du travail;62056;1456760;42,6;62056;42.6
+2007;75;Nouvelle-Aquitaine;Maladies professionnelles;2107;1456760;NC;2107;
+2007;75;Nouvelle-Aquitaine;Tous risques confondus;70409;1456760;NC;70409;
+2007;76;Occitanie;Accidents de trajet;5524;1328006;4,2;5524;4.2
+2007;76;Occitanie;Accidents du travail;57227;1328006;43,1;57227;43.1
+2007;76;Occitanie;Maladies professionnelles;1297;1328006;NC;1297;
+2007;76;Occitanie;Tous risques confondus;64048;1328006;NC;64048;
+2007;84;Auvergne-Rhône-Alpes;Accidents de trajet;9751;2251076;4,3;9751;4.3
+2007;84;Auvergne-Rhône-Alpes;Accidents du travail;100495;2251076;44,6;100495;44.6
+2007;84;Auvergne-Rhône-Alpes;Maladies professionnelles;3281;2251076;NC;3281;
+2007;84;Auvergne-Rhône-Alpes;Tous risques confondus;113527;2251076;NC;113527;
+2007;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;7025;1295338;5,4;7025;5.4
+2007;93;Provence-Alpes-Côte d'Azur;Accidents du travail;54042;1295338;41,7;54042;41.7
+2007;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1338;1295338;NC;1338;
+2007;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;62405;1295338;NC;62405;
+2007;94;Corse;Accidents de trajet;387;69706;5,6;387;5.6
+2007;94;Corse;Accidents du travail;3181;69706;45,6;3181;45.6
+2007;94;Corse;Maladies professionnelles;140;69706;NC;140;
+2007;94;Corse;Tous risques confondus;3708;69706;NC;3708;
+2007;99;FRANCE;Accidents de trajet;82648;18640394;4,4;82648;4.4
+2007;99;FRANCE;Accidents du travail;717394;18640394;38,5;717394;38.5
+2007;99;FRANCE;Maladies professionnelles;31613;18640394;NC;31613;
+2007;99;FRANCE;Tous risques confondus;831655;18640394;NC;831655;
+2008;01;Guadeloupe;Accidents de trajet;146;88469;1,7;146;1.7
+2008;01;Guadeloupe;Accidents du travail;1245;88469;14,1;1245;14.1
+2008;01;Guadeloupe;Maladies professionnelles;33;88469;NC;33;
+2008;01;Guadeloupe;Tous risques confondus;1424;88469;NC;1424;
+2008;02;Martinique;Accidents de trajet;244;92983;2,6;244;2.6
+2008;02;Martinique;Accidents du travail;2135;92983;23,0;2135;23.0
+2008;02;Martinique;Maladies professionnelles;31;92983;NC;31;
+2008;02;Martinique;Tous risques confondus;2410;92983;NC;2410;
+2008;03;Guyane;Accidents de trajet;38;29975;1,3;38;1.3
+2008;03;Guyane;Accidents du travail;486;29975;16,2;486;16.2
+2008;03;Guyane;Maladies professionnelles;12;29975;NC;12;
+2008;03;Guyane;Tous risques confondus;536;29975;NC;536;
+2008;04;La Réunion;Accidents de trajet;504;171005;2,9;504;2.9
+2008;04;La Réunion;Accidents du travail;4284;171005;25,1;4284;25.1
+2008;04;La Réunion;Maladies professionnelles;82;171005;NC;82;
+2008;04;La Réunion;Tous risques confondus;4870;171005;NC;4870;
+2008;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2008;06;Mayotte;Accidents du travail;0;0;NC;0;
+2008;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2008;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2008;11;Ile-de-France;Accidents de trajet;25188;4709508;5,3;25188;5.3
+2008;11;Ile-de-France;Accidents du travail;118657;4709508;25,2;118657;25.2
+2008;11;Ile-de-France;Maladies professionnelles;4050;4709508;NC;4050;
+2008;11;Ile-de-France;Tous risques confondus;147895;4709508;NC;147895;
+2008;24;Centre-Val de Loire;Accidents de trajet;2908;672877;4,3;2908;4.3
+2008;24;Centre-Val de Loire;Accidents du travail;29215;672877;43,4;29215;43.4
+2008;24;Centre-Val de Loire;Maladies professionnelles;1569;672877;NC;1569;
+2008;24;Centre-Val de Loire;Tous risques confondus;33692;672877;NC;33692;
+2008;27;Bourgogne-Franche-Comté;Accidents de trajet;3120;746134;4,2;3120;4.2
+2008;27;Bourgogne-Franche-Comté;Accidents du travail;32002;746134;42,9;32002;42.9
+2008;27;Bourgogne-Franche-Comté;Maladies professionnelles;2061;746134;NC;2061;
+2008;27;Bourgogne-Franche-Comté;Tous risques confondus;37183;746134;NC;37183;
+2008;28;Normandie;Accidents de trajet;4014;916990;4,4;4014;4.4
+2008;28;Normandie;Accidents du travail;36714;916990;40,0;36714;40.0
+2008;28;Normandie;Maladies professionnelles;2328;916990;NC;2328;
+2008;28;Normandie;Tous risques confondus;43056;916990;NC;43056;
+2008;32;Hauts-de-France;Accidents de trajet;6097;1603701;3,8;6097;3.8
+2008;32;Hauts-de-France;Accidents du travail;63613;1603701;39,7;63613;39.7
+2008;32;Hauts-de-France;Maladies professionnelles;3678;1603701;NC;3678;
+2008;32;Hauts-de-France;Tous risques confondus;73388;1603701;NC;73388;
+2008;44;Grand Est;Accidents de trajet;5905;1497381;3,9;5905;3.9
+2008;44;Grand Est;Accidents du travail;59547;1497381;39,8;59547;39.8
+2008;44;Grand Est;Maladies professionnelles;4276;1497381;NC;4276;
+2008;44;Grand Est;Tous risques confondus;69728;1497381;NC;69728;
+2008;52;Pays de la Loire;Accidents de trajet;4675;1029127;4,5;4675;4.5
+2008;52;Pays de la Loire;Accidents du travail;45316;1029127;44,0;45316;44.0
+2008;52;Pays de la Loire;Maladies professionnelles;3679;1029127;NC;3679;
+2008;52;Pays de la Loire;Tous risques confondus;53670;1029127;NC;53670;
+2008;53;Bretagne;Accidents de trajet;3004;832920;3,6;3004;3.6
+2008;53;Bretagne;Accidents du travail;36694;832920;44,1;36694;44.1
+2008;53;Bretagne;Maladies professionnelles;3536;832920;NC;3536;
+2008;53;Bretagne;Tous risques confondus;43234;832920;NC;43234;
+2008;75;Nouvelle-Aquitaine;Accidents de trajet;6241;1462938;4,3;6241;4.3
+2008;75;Nouvelle-Aquitaine;Accidents du travail;61767;1462938;42,2;61767;42.2
+2008;75;Nouvelle-Aquitaine;Maladies professionnelles;3446;1462938;NC;3446;
+2008;75;Nouvelle-Aquitaine;Tous risques confondus;71454;1462938;NC;71454;
+2008;76;Occitanie;Accidents de trajet;5863;1363354;4,3;5863;4.3
+2008;76;Occitanie;Accidents du travail;57619;1363354;42,3;57619;42.3
+2008;76;Occitanie;Maladies professionnelles;1451;1363354;NC;1451;
+2008;76;Occitanie;Tous risques confondus;64933;1363354;NC;64933;
+2008;84;Auvergne-Rhône-Alpes;Accidents de trajet;9771;2276200;4,3;9771;4.3
+2008;84;Auvergne-Rhône-Alpes;Accidents du travail;97602;2276200;42,9;97602;42.9
+2008;84;Auvergne-Rhône-Alpes;Maladies professionnelles;4016;2276200;NC;4016;
+2008;84;Auvergne-Rhône-Alpes;Tous risques confondus;111389;2276200;NC;111389;
+2008;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;7657;1300693;5,9;7657;5.9
+2008;93;Provence-Alpes-Côte d'Azur;Accidents du travail;53453;1300693;41,1;53453;41.1
+2008;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1494;1300693;NC;1494;
+2008;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;62604;1300693;NC;62604;
+2008;94;Corse;Accidents de trajet;293;70859;4,1;293;4.1
+2008;94;Corse;Accidents du travail;2705;70859;38,2;2705;38.2
+2008;94;Corse;Maladies professionnelles;157;70859;NC;157;
+2008;94;Corse;Tous risques confondus;3155;70859;NC;3155;
+2008;99;FRANCE;Accidents de trajet;85668;18865114;4,5;85668;4.5
+2008;99;FRANCE;Accidents du travail;703054;18865114;37,3;703054;37.3
+2008;99;FRANCE;Maladies professionnelles;35899;18865114;NC;35899;
+2008;99;FRANCE;Tous risques confondus;824621;18865114;NC;824621;
+2009;01;Guadeloupe;Accidents de trajet;122;83981;1,5;122;1.5
+2009;01;Guadeloupe;Accidents du travail;844;83981;10,0;844;10.0
+2009;01;Guadeloupe;Maladies professionnelles;21;83981;NC;21;
+2009;01;Guadeloupe;Tous risques confondus;987;83981;NC;987;
+2009;02;Martinique;Accidents de trajet;220;91606;2,4;220;2.4
+2009;02;Martinique;Accidents du travail;1910;91606;20,9;1910;20.9
+2009;02;Martinique;Maladies professionnelles;41;91606;NC;41;
+2009;02;Martinique;Tous risques confondus;2171;91606;NC;2171;
+2009;03;Guyane;Accidents de trajet;40;31857;1,3;40;1.3
+2009;03;Guyane;Accidents du travail;355;31857;11,1;355;11.1
+2009;03;Guyane;Maladies professionnelles;11;31857;NC;11;
+2009;03;Guyane;Tous risques confondus;406;31857;NC;406;
+2009;04;La Réunion;Accidents de trajet;460;165831;2,8;460;2.8
+2009;04;La Réunion;Accidents du travail;3830;165831;23,1;3830;23.1
+2009;04;La Réunion;Maladies professionnelles;85;165831;NC;85;
+2009;04;La Réunion;Tous risques confondus;4375;165831;NC;4375;
+2009;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2009;06;Mayotte;Accidents du travail;0;0;NC;0;
+2009;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2009;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2009;11;Ile-de-France;Accidents de trajet;27853;4639679;6,0;27853;6.0
+2009;11;Ile-de-France;Accidents du travail;116396;4639679;25,1;116396;25.1
+2009;11;Ile-de-France;Maladies professionnelles;4682;4639679;NC;4682;
+2009;11;Ile-de-France;Tous risques confondus;148931;4639679;NC;148931;
+2009;24;Centre-Val de Loire;Accidents de trajet;3054;659712;4,6;3054;4.6
+2009;24;Centre-Val de Loire;Accidents du travail;25471;659712;38,6;25471;38.6
+2009;24;Centre-Val de Loire;Maladies professionnelles;1610;659712;NC;1610;
+2009;24;Centre-Val de Loire;Tous risques confondus;30135;659712;NC;30135;
+2009;27;Bourgogne-Franche-Comté;Accidents de trajet;3139;718450;4,4;3139;4.4
+2009;27;Bourgogne-Franche-Comté;Accidents du travail;28229;718450;39,3;28229;39.3
+2009;27;Bourgogne-Franche-Comté;Maladies professionnelles;2186;718450;NC;2186;
+2009;27;Bourgogne-Franche-Comté;Tous risques confondus;33554;718450;NC;33554;
+2009;28;Normandie;Accidents de trajet;3899;893883;4,4;3899;4.4
+2009;28;Normandie;Accidents du travail;32314;893883;36,2;32314;36.2
+2009;28;Normandie;Maladies professionnelles;2615;893883;NC;2615;
+2009;28;Normandie;Tous risques confondus;38828;893883;NC;38828;
+2009;32;Hauts-de-France;Accidents de trajet;6584;1555129;4,2;6584;4.2
+2009;32;Hauts-de-France;Accidents du travail;59273;1555129;38,1;59273;38.1
+2009;32;Hauts-de-France;Maladies professionnelles;3776;1555129;NC;3776;
+2009;32;Hauts-de-France;Tous risques confondus;69633;1555129;NC;69633;
+2009;44;Grand Est;Accidents de trajet;6222;1454429;4,3;6222;4.3
+2009;44;Grand Est;Accidents du travail;54599;1454429;37,5;54599;37.5
+2009;44;Grand Est;Maladies professionnelles;4573;1454429;NC;4573;
+2009;44;Grand Est;Tous risques confondus;65394;1454429;NC;65394;
+2009;52;Pays de la Loire;Accidents de trajet;4651;1007623;4,6;4651;4.6
+2009;52;Pays de la Loire;Accidents du travail;40654;1007623;40,3;40654;40.3
+2009;52;Pays de la Loire;Maladies professionnelles;4208;1007623;NC;4208;
+2009;52;Pays de la Loire;Tous risques confondus;49513;1007623;NC;49513;
+2009;53;Bretagne;Accidents de trajet;3451;830239;4,2;3451;4.2
+2009;53;Bretagne;Accidents du travail;34553;830239;41,6;34553;41.6
+2009;53;Bretagne;Maladies professionnelles;4239;830239;NC;4239;
+2009;53;Bretagne;Tous risques confondus;42243;830239;NC;42243;
+2009;75;Nouvelle-Aquitaine;Accidents de trajet;6266;1438461;4,4;6266;4.4
+2009;75;Nouvelle-Aquitaine;Accidents du travail;54717;1438461;38,0;54717;38.0
+2009;75;Nouvelle-Aquitaine;Maladies professionnelles;3861;1438461;NC;3861;
+2009;75;Nouvelle-Aquitaine;Tous risques confondus;64844;1438461;NC;64844;
+2009;76;Occitanie;Accidents de trajet;6055;1353548;4,5;6055;4.5
+2009;76;Occitanie;Accidents du travail;54655;1353548;40,4;54655;40.4
+2009;76;Occitanie;Maladies professionnelles;1815;1353548;NC;1815;
+2009;76;Occitanie;Tous risques confondus;62525;1353548;NC;62525;
+2009;84;Auvergne-Rhône-Alpes;Accidents de trajet;10832;2223892;4,9;10832;4.9
+2009;84;Auvergne-Rhône-Alpes;Accidents du travail;88381;2223892;39,7;88381;39.7
+2009;84;Auvergne-Rhône-Alpes;Maladies professionnelles;4683;2223892;NC;4683;
+2009;84;Auvergne-Rhône-Alpes;Tous risques confondus;103896;2223892;NC;103896;
+2009;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8392;1280872;6,6;8392;6.6
+2009;93;Provence-Alpes-Côte d'Azur;Accidents du travail;52000;1280872;40,6;52000;40.6
+2009;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1850;1280872;NC;1850;
+2009;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;62242;1280872;NC;62242;
+2009;94;Corse;Accidents de trajet;381;72254;5,3;381;5.3
+2009;94;Corse;Accidents du travail;2848;72254;39,4;2848;39.4
+2009;94;Corse;Maladies professionnelles;176;72254;NC;176;
+2009;94;Corse;Tous risques confondus;3405;72254;NC;3405;
+2009;99;FRANCE;Accidents de trajet;91621;18501446;5,0;91621;5.0
+2009;99;FRANCE;Accidents du travail;651029;18501446;35,2;651029;35.2
+2009;99;FRANCE;Maladies professionnelles;40432;18501446;NC;40432;
+2009;99;FRANCE;Tous risques confondus;783082;18501446;NC;783082;
+2010;01;Guadeloupe;Accidents de trajet;120;88920;1,3;120;1.3
+2010;01;Guadeloupe;Accidents du travail;939;88920;10,6;939;10.6
+2010;01;Guadeloupe;Maladies professionnelles;29;88920;NC;29;
+2010;01;Guadeloupe;Tous risques confondus;1088;88920;NC;1088;
+2010;02;Martinique;Accidents de trajet;274;93291;2,9;274;2.9
+2010;02;Martinique;Accidents du travail;2556;93291;27,4;2556;27.4
+2010;02;Martinique;Maladies professionnelles;58;93291;NC;58;
+2010;02;Martinique;Tous risques confondus;2888;93291;NC;2888;
+2010;03;Guyane;Accidents de trajet;63;33684;1,9;63;1.9
+2010;03;Guyane;Accidents du travail;379;33684;11,3;379;11.3
+2010;03;Guyane;Maladies professionnelles;13;33684;NC;13;
+2010;03;Guyane;Tous risques confondus;455;33684;NC;455;
+2010;04;La Réunion;Accidents de trajet;368;168270;2,2;368;2.2
+2010;04;La Réunion;Accidents du travail;3528;168270;21,0;3528;21.0
+2010;04;La Réunion;Maladies professionnelles;110;168270;NC;110;
+2010;04;La Réunion;Tous risques confondus;4006;168270;NC;4006;
+2010;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2010;06;Mayotte;Accidents du travail;0;0;NC;0;
+2010;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2010;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2010;11;Ile-de-France;Accidents de trajet;28536;4691760;6,1;28536;6.1
+2010;11;Ile-de-France;Accidents du travail;116797;4691760;24,9;116797;24.9
+2010;11;Ile-de-France;Maladies professionnelles;5125;4691760;NC;5125;
+2010;11;Ile-de-France;Tous risques confondus;150458;4691760;NC;150458;
+2010;24;Centre-Val de Loire;Accidents de trajet;3499;661273;5,3;3499;5.3
+2010;24;Centre-Val de Loire;Accidents du travail;26621;661273;40,3;26621;40.3
+2010;24;Centre-Val de Loire;Maladies professionnelles;1605;661273;NC;1605;
+2010;24;Centre-Val de Loire;Tous risques confondus;31725;661273;NC;31725;
+2010;27;Bourgogne-Franche-Comté;Accidents de trajet;3455;723509;4,8;3455;4.8
+2010;27;Bourgogne-Franche-Comté;Accidents du travail;29062;723509;40,2;29062;40.2
+2010;27;Bourgogne-Franche-Comté;Maladies professionnelles;2190;723509;NC;2190;
+2010;27;Bourgogne-Franche-Comté;Tous risques confondus;34707;723509;NC;34707;
+2010;28;Normandie;Accidents de trajet;4624;890689;5,2;4624;5.2
+2010;28;Normandie;Accidents du travail;34708;890689;39,0;34708;39.0
+2010;28;Normandie;Maladies professionnelles;2931;890689;NC;2931;
+2010;28;Normandie;Tous risques confondus;42263;890689;NC;42263;
+2010;32;Hauts-de-France;Accidents de trajet;6576;1568008;4,2;6576;4.2
+2010;32;Hauts-de-France;Accidents du travail;60082;1568008;38,3;60082;38.3
+2010;32;Hauts-de-France;Maladies professionnelles;3851;1568008;NC;3851;
+2010;32;Hauts-de-France;Tous risques confondus;70509;1568008;NC;70509;
+2010;44;Grand Est;Accidents de trajet;6264;1458567;4,3;6264;4.3
+2010;44;Grand Est;Accidents du travail;53032;1458567;36,4;53032;36.4
+2010;44;Grand Est;Maladies professionnelles;4588;1458567;NC;4588;
+2010;44;Grand Est;Tous risques confondus;63884;1458567;NC;63884;
+2010;52;Pays de la Loire;Accidents de trajet;4813;1021419;4,7;4813;4.7
+2010;52;Pays de la Loire;Accidents du travail;39974;1021419;39,1;39974;39.1
+2010;52;Pays de la Loire;Maladies professionnelles;4541;1021419;NC;4541;
+2010;52;Pays de la Loire;Tous risques confondus;49328;1021419;NC;49328;
+2010;53;Bretagne;Accidents de trajet;3622;845482;4,3;3622;4.3
+2010;53;Bretagne;Accidents du travail;33441;845482;39,6;33441;39.6
+2010;53;Bretagne;Maladies professionnelles;4044;845482;NC;4044;
+2010;53;Bretagne;Tous risques confondus;41107;845482;NC;41107;
+2010;75;Nouvelle-Aquitaine;Accidents de trajet;6709;1449291;4,6;6709;4.6
+2010;75;Nouvelle-Aquitaine;Accidents du travail;58234;1449291;40,2;58234;40.2
+2010;75;Nouvelle-Aquitaine;Maladies professionnelles;4562;1449291;NC;4562;
+2010;75;Nouvelle-Aquitaine;Tous risques confondus;69505;1449291;NC;69505;
+2010;76;Occitanie;Accidents de trajet;6672;1375606;4,9;6672;4.9
+2010;76;Occitanie;Accidents du travail;55293;1375606;40,2;55293;40.2
+2010;76;Occitanie;Maladies professionnelles;1824;1375606;NC;1824;
+2010;76;Occitanie;Tous risques confondus;63789;1375606;NC;63789;
+2010;84;Auvergne-Rhône-Alpes;Accidents de trajet;11653;2249645;5,2;11653;5.2
+2010;84;Auvergne-Rhône-Alpes;Accidents du travail;90394;2249645;40,2;90394;40.2
+2010;84;Auvergne-Rhône-Alpes;Maladies professionnelles;4722;2249645;NC;4722;
+2010;84;Auvergne-Rhône-Alpes;Tous risques confondus;106769;2249645;NC;106769;
+2010;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8417;1290019;6,5;8417;6.5
+2010;93;Provence-Alpes-Côte d'Azur;Accidents du travail;50626;1290019;39,2;50626;39.2
+2010;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2047;1290019;NC;2047;
+2010;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;61090;1290019;NC;61090;
+2010;94;Corse;Accidents de trajet;403;74694;5,4;403;5.4
+2010;94;Corse;Accidents du travail;3018;74694;40,4;3018;40.4
+2010;94;Corse;Maladies professionnelles;183;74694;NC;183;
+2010;94;Corse;Tous risques confondus;3604;74694;NC;3604;
+2010;99;FRANCE;Accidents de trajet;96068;18684127;5,1;96068;5.1
+2010;99;FRANCE;Accidents du travail;658684;18684127;35,3;658684;35.3
+2010;99;FRANCE;Maladies professionnelles;42423;18684127;NC;42423;
+2010;99;FRANCE;Tous risques confondus;797175;18684127;NC;797175;
+2011;01;Guadeloupe;Accidents de trajet;170;87886;1,9;170;1.9
+2011;01;Guadeloupe;Accidents du travail;1314;87886;15,0;1314;15.0
+2011;01;Guadeloupe;Maladies professionnelles;25;87886;NC;25;
+2011;01;Guadeloupe;Tous risques confondus;1509;87886;NC;1509;
+2011;02;Martinique;Accidents de trajet;264;91516;2,9;264;2.9
+2011;02;Martinique;Accidents du travail;2533;91516;27,7;2533;27.7
+2011;02;Martinique;Maladies professionnelles;105;91516;NC;105;
+2011;02;Martinique;Tous risques confondus;2902;91516;NC;2902;
+2011;03;Guyane;Accidents de trajet;42;35396;1,2;42;1.2
+2011;03;Guyane;Accidents du travail;404;35396;11,4;404;11.4
+2011;03;Guyane;Maladies professionnelles;21;35396;NC;21;
+2011;03;Guyane;Tous risques confondus;467;35396;NC;467;
+2011;04;La Réunion;Accidents de trajet;458;172952;2,6;458;2.6
+2011;04;La Réunion;Accidents du travail;3807;172952;22,0;3807;22.0
+2011;04;La Réunion;Maladies professionnelles;86;172952;NC;86;
+2011;04;La Réunion;Tous risques confondus;4351;172952;NC;4351;
+2011;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2011;06;Mayotte;Accidents du travail;0;0;NC;0;
+2011;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2011;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2011;11;Ile-de-France;Accidents de trajet;31611;4727698;6,7;31611;6.7
+2011;11;Ile-de-France;Accidents du travail;114866;4727698;24,3;114866;24.3
+2011;11;Ile-de-France;Maladies professionnelles;5316;4727698;NC;5316;
+2011;11;Ile-de-France;Tous risques confondus;151793;4727698;NC;151793;
+2011;24;Centre-Val de Loire;Accidents de trajet;3606;667860;5,4;3606;5.4
+2011;24;Centre-Val de Loire;Accidents du travail;26803;667860;40,1;26803;40.1
+2011;24;Centre-Val de Loire;Maladies professionnelles;1697;667860;NC;1697;
+2011;24;Centre-Val de Loire;Tous risques confondus;32106;667860;NC;32106;
+2011;27;Bourgogne-Franche-Comté;Accidents de trajet;3270;730800;4,5;3270;4.5
+2011;27;Bourgogne-Franche-Comté;Accidents du travail;28548;730800;39,1;28548;39.1
+2011;27;Bourgogne-Franche-Comté;Maladies professionnelles;2478;730800;NC;2478;
+2011;27;Bourgogne-Franche-Comté;Tous risques confondus;34296;730800;NC;34296;
+2011;28;Normandie;Accidents de trajet;4210;903784;4,7;4210;4.7
+2011;28;Normandie;Accidents du travail;34852;903784;38,6;34852;38.6
+2011;28;Normandie;Maladies professionnelles;3490;903784;NC;3490;
+2011;28;Normandie;Tous risques confondus;42552;903784;NC;42552;
+2011;32;Hauts-de-France;Accidents de trajet;6848;1565087;4,4;6848;4.4
+2011;32;Hauts-de-France;Accidents du travail;62598;1565087;40,0;62598;40.0
+2011;32;Hauts-de-France;Maladies professionnelles;4611;1565087;NC;4611;
+2011;32;Hauts-de-France;Tous risques confondus;74057;1565087;NC;74057;
+2011;44;Grand Est;Accidents de trajet;6728;1464522;4,6;6728;4.6
+2011;44;Grand Est;Accidents du travail;55671;1464522;38,0;55671;38.0
+2011;44;Grand Est;Maladies professionnelles;4541;1464522;NC;4541;
+2011;44;Grand Est;Tous risques confondus;66940;1464522;NC;66940;
+2011;52;Pays de la Loire;Accidents de trajet;4484;1038944;4,3;4484;4.3
+2011;52;Pays de la Loire;Accidents du travail;43136;1038944;41,5;43136;41.5
+2011;52;Pays de la Loire;Maladies professionnelles;5110;1038944;NC;5110;
+2011;52;Pays de la Loire;Tous risques confondus;52730;1038944;NC;52730;
+2011;53;Bretagne;Accidents de trajet;3164;851928;3,7;3164;3.7
+2011;53;Bretagne;Accidents du travail;36480;851928;42,8;36480;42.8
+2011;53;Bretagne;Maladies professionnelles;4628;851928;NC;4628;
+2011;53;Bretagne;Tous risques confondus;44272;851928;NC;44272;
+2011;75;Nouvelle-Aquitaine;Accidents de trajet;6380;1466167;4,4;6380;4.4
+2011;75;Nouvelle-Aquitaine;Accidents du travail;56309;1466167;38,4;56309;38.4
+2011;75;Nouvelle-Aquitaine;Maladies professionnelles;4189;1466167;NC;4189;
+2011;75;Nouvelle-Aquitaine;Tous risques confondus;66878;1466167;NC;66878;
+2011;76;Occitanie;Accidents de trajet;6248;1382297;4,5;6248;4.5
+2011;76;Occitanie;Accidents du travail;56650;1382297;41,0;56650;41.0
+2011;76;Occitanie;Maladies professionnelles;2128;1382297;NC;2128;
+2011;76;Occitanie;Tous risques confondus;65026;1382297;NC;65026;
+2011;84;Auvergne-Rhône-Alpes;Accidents de trajet;11271;2283992;4,9;11271;4.9
+2011;84;Auvergne-Rhône-Alpes;Accidents du travail;91496;2283992;40,1;91496;40.1
+2011;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5371;2283992;NC;5371;
+2011;84;Auvergne-Rhône-Alpes;Tous risques confondus;108138;2283992;NC;108138;
+2011;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8436;1328589;6,3;8436;6.3
+2011;93;Provence-Alpes-Côte d'Azur;Accidents du travail;51026;1328589;38,4;51026;38.4
+2011;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2291;1328589;NC;2291;
+2011;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;61753;1328589;NC;61753;
+2011;94;Corse;Accidents de trajet;450;77973;5,8;450;5.8
+2011;94;Corse;Accidents du travail;3091;77973;39,6;3091;39.6
+2011;94;Corse;Maladies professionnelles;208;77973;NC;208;
+2011;94;Corse;Tous risques confondus;3749;77973;NC;3749;
+2011;99;FRANCE;Accidents de trajet;97640;18877391;5,2;97640;5.2
+2011;99;FRANCE;Accidents du travail;669584;18877391;35,5;669584;35.5
+2011;99;FRANCE;Maladies professionnelles;46295;18877391;NC;46295;
+2011;99;FRANCE;Tous risques confondus;813519;18877391;NC;813519;
+2012;01;Guadeloupe;Accidents de trajet;243;88364;2,7;243;2.7
+2012;01;Guadeloupe;Accidents du travail;1649;88364;18,7;1649;18.7
+2012;01;Guadeloupe;Maladies professionnelles;43;88364;NC;43;
+2012;01;Guadeloupe;Tous risques confondus;1935;88364;NC;1935;
+2012;02;Martinique;Accidents de trajet;298;90296;3,3;298;3.3
+2012;02;Martinique;Accidents du travail;2398;90296;26,6;2398;26.6
+2012;02;Martinique;Maladies professionnelles;102;90296;NC;102;
+2012;02;Martinique;Tous risques confondus;2798;90296;NC;2798;
+2012;03;Guyane;Accidents de trajet;57;35630;1,6;57;1.6
+2012;03;Guyane;Accidents du travail;436;35630;12,2;436;12.2
+2012;03;Guyane;Maladies professionnelles;33;35630;NC;33;
+2012;03;Guyane;Tous risques confondus;526;35630;NC;526;
+2012;04;La Réunion;Accidents de trajet;365;176976;2,1;365;2.1
+2012;04;La Réunion;Accidents du travail;3229;176976;18,2;3229;18.2
+2012;04;La Réunion;Maladies professionnelles;27;176976;NC;27;
+2012;04;La Réunion;Tous risques confondus;3621;176976;NC;3621;
+2012;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2012;06;Mayotte;Accidents du travail;0;0;NC;0;
+2012;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2012;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2012;11;Ile-de-France;Accidents de trajet;26366;4710638;5,6;26366;5.6
+2012;11;Ile-de-France;Accidents du travail;112180;4710638;23,8;112180;23.8
+2012;11;Ile-de-France;Maladies professionnelles;5192;4710638;NC;5192;
+2012;11;Ile-de-France;Tous risques confondus;143738;4710638;NC;143738;
+2012;24;Centre-Val de Loire;Accidents de trajet;2930;656747;4,5;2930;4.5
+2012;24;Centre-Val de Loire;Accidents du travail;25399;656747;38,7;25399;38.7
+2012;24;Centre-Val de Loire;Maladies professionnelles;1620;656747;NC;1620;
+2012;24;Centre-Val de Loire;Tous risques confondus;29949;656747;NC;29949;
+2012;27;Bourgogne-Franche-Comté;Accidents de trajet;2967;716261;4,1;2967;4.1
+2012;27;Bourgogne-Franche-Comté;Accidents du travail;27184;716261;38,0;27184;38.0
+2012;27;Bourgogne-Franche-Comté;Maladies professionnelles;2418;716261;NC;2418;
+2012;27;Bourgogne-Franche-Comté;Tous risques confondus;32569;716261;NC;32569;
+2012;28;Normandie;Accidents de trajet;3822;880786;4,3;3822;4.3
+2012;28;Normandie;Accidents du travail;32775;880786;37,2;32775;37.2
+2012;28;Normandie;Maladies professionnelles;3318;880786;NC;3318;
+2012;28;Normandie;Tous risques confondus;39915;880786;NC;39915;
+2012;32;Hauts-de-France;Accidents de trajet;5796;1529136;3,8;5796;3.8
+2012;32;Hauts-de-France;Accidents du travail;58817;1529136;38,5;58817;38.5
+2012;32;Hauts-de-France;Maladies professionnelles;4191;1529136;NC;4191;
+2012;32;Hauts-de-France;Tous risques confondus;68804;1529136;NC;68804;
+2012;44;Grand Est;Accidents de trajet;5382;1424350;3,8;5382;3.8
+2012;44;Grand Est;Accidents du travail;50970;1424350;35,8;50970;35.8
+2012;44;Grand Est;Maladies professionnelles;5035;1424350;NC;5035;
+2012;44;Grand Est;Tous risques confondus;61387;1424350;NC;61387;
+2012;52;Pays de la Loire;Accidents de trajet;4324;1040683;4,2;4324;4.2
+2012;52;Pays de la Loire;Accidents du travail;40371;1040683;38,8;40371;38.8
+2012;52;Pays de la Loire;Maladies professionnelles;4910;1040683;NC;4910;
+2012;52;Pays de la Loire;Tous risques confondus;49605;1040683;NC;49605;
+2012;53;Bretagne;Accidents de trajet;2833;843418;3,4;2833;3.4
+2012;53;Bretagne;Accidents du travail;34055;843418;40,4;34055;40.4
+2012;53;Bretagne;Maladies professionnelles;4056;843418;NC;4056;
+2012;53;Bretagne;Tous risques confondus;40944;843418;NC;40944;
+2012;75;Nouvelle-Aquitaine;Accidents de trajet;6253;1457965;4,3;6253;4.3
+2012;75;Nouvelle-Aquitaine;Accidents du travail;55875;1457965;38,3;55875;38.3
+2012;75;Nouvelle-Aquitaine;Maladies professionnelles;4559;1457965;NC;4559;
+2012;75;Nouvelle-Aquitaine;Tous risques confondus;66687;1457965;NC;66687;
+2012;76;Occitanie;Accidents de trajet;6535;1372771;4,8;6535;4.8
+2012;76;Occitanie;Accidents du travail;55049;1372771;40,1;55049;40.1
+2012;76;Occitanie;Maladies professionnelles;2052;1372771;NC;2052;
+2012;76;Occitanie;Tous risques confondus;63636;1372771;NC;63636;
+2012;84;Auvergne-Rhône-Alpes;Accidents de trajet;10915;2265235;4,8;10915;4.8
+2012;84;Auvergne-Rhône-Alpes;Accidents du travail;88499;2265235;39,1;88499;39.1
+2012;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5012;2265235;NC;5012;
+2012;84;Auvergne-Rhône-Alpes;Tous risques confondus;104426;2265235;NC;104426;
+2012;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8466;1307943;6,5;8466;6.5
+2012;93;Provence-Alpes-Côte d'Azur;Accidents du travail;48769;1307943;37,3;48769;37.3
+2012;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1851;1307943;NC;1851;
+2012;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;59086;1307943;NC;59086;
+2012;94;Corse;Accidents de trajet;422;77209;5,5;422;5.5
+2012;94;Corse;Accidents du travail;2595;77209;33,6;2595;33.6
+2012;94;Corse;Maladies professionnelles;207;77209;NC;207;
+2012;94;Corse;Tous risques confondus;3224;77209;NC;3224;
+2012;99;FRANCE;Accidents de trajet;87974;18674408;4,7;87974;4.7
+2012;99;FRANCE;Accidents du travail;640250;18674408;34,3;640250;34.3
+2012;99;FRANCE;Maladies professionnelles;44626;18674408;NC;44626;
+2012;99;FRANCE;Tous risques confondus;772850;18674408;NC;772850;
+2013;01;Guadeloupe;Accidents de trajet;230;87221;2,6;230;2.6
+2013;01;Guadeloupe;Accidents du travail;1809;87221;20,7;1809;20.7
+2013;01;Guadeloupe;Maladies professionnelles;47;87221;NC;47;
+2013;01;Guadeloupe;Tous risques confondus;2086;87221;NC;2086;
+2013;02;Martinique;Accidents de trajet;269;90362;3,0;269;3.0
+2013;02;Martinique;Accidents du travail;2063;90362;22,8;2063;22.8
+2013;02;Martinique;Maladies professionnelles;96;90362;NC;96;
+2013;02;Martinique;Tous risques confondus;2428;90362;NC;2428;
+2013;03;Guyane;Accidents de trajet;35;37574;0,9;35;0.9
+2013;03;Guyane;Accidents du travail;346;37574;9,2;346;9.2
+2013;03;Guyane;Maladies professionnelles;8;37574;NC;8;
+2013;03;Guyane;Tous risques confondus;389;37574;NC;389;
+2013;04;La Réunion;Accidents de trajet;486;179618;2,7;486;2.7
+2013;04;La Réunion;Accidents du travail;3634;179618;20,2;3634;20.2
+2013;04;La Réunion;Maladies professionnelles;169;179618;NC;169;
+2013;04;La Réunion;Tous risques confondus;4289;179618;NC;4289;
+2013;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2013;06;Mayotte;Accidents du travail;0;0;NC;0;
+2013;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2013;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2013;11;Ile-de-France;Accidents de trajet;27974;4685443;6,0;27974;6.0
+2013;11;Ile-de-France;Accidents du travail;107105;4685443;22,9;107105;22.9
+2013;11;Ile-de-France;Maladies professionnelles;5170;4685443;NC;5170;
+2013;11;Ile-de-France;Tous risques confondus;140249;4685443;NC;140249;
+2013;24;Centre-Val de Loire;Accidents de trajet;2858;651938;4,4;2858;4.4
+2013;24;Centre-Val de Loire;Accidents du travail;24145;651938;37,0;24145;37.0
+2013;24;Centre-Val de Loire;Maladies professionnelles;1437;651938;NC;1437;
+2013;24;Centre-Val de Loire;Tous risques confondus;28440;651938;NC;28440;
+2013;27;Bourgogne-Franche-Comté;Accidents de trajet;3017;709981;4,2;3017;4.2
+2013;27;Bourgogne-Franche-Comté;Accidents du travail;25573;709981;36,0;25573;36.0
+2013;27;Bourgogne-Franche-Comté;Maladies professionnelles;2096;709981;NC;2096;
+2013;27;Bourgogne-Franche-Comté;Tous risques confondus;30686;709981;NC;30686;
+2013;28;Normandie;Accidents de trajet;3867;878025;4,4;3867;4.4
+2013;28;Normandie;Accidents du travail;31057;878025;35,4;31057;35.4
+2013;28;Normandie;Maladies professionnelles;3081;878025;NC;3081;
+2013;28;Normandie;Tous risques confondus;38005;878025;NC;38005;
+2013;32;Hauts-de-France;Accidents de trajet;7342;1515776;4,8;7342;4.8
+2013;32;Hauts-de-France;Accidents du travail;57671;1515776;38,0;57671;38.0
+2013;32;Hauts-de-France;Maladies professionnelles;4542;1515776;NC;4542;
+2013;32;Hauts-de-France;Tous risques confondus;69555;1515776;NC;69555;
+2013;44;Grand Est;Accidents de trajet;5741;1414411;4,1;5741;4.1
+2013;44;Grand Est;Accidents du travail;48630;1414411;34,4;48630;34.4
+2013;44;Grand Est;Maladies professionnelles;4625;1414411;NC;4625;
+2013;44;Grand Est;Tous risques confondus;58996;1414411;NC;58996;
+2013;52;Pays de la Loire;Accidents de trajet;4088;1035312;3,9;4088;3.9
+2013;52;Pays de la Loire;Accidents du travail;38787;1035312;37,5;38787;37.5
+2013;52;Pays de la Loire;Maladies professionnelles;4883;1035312;NC;4883;
+2013;52;Pays de la Loire;Tous risques confondus;47758;1035312;NC;47758;
+2013;53;Bretagne;Accidents de trajet;3007;849203;3,5;3007;3.5
+2013;53;Bretagne;Accidents du travail;33342;849203;39,3;33342;39.3
+2013;53;Bretagne;Maladies professionnelles;3718;849203;NC;3718;
+2013;53;Bretagne;Tous risques confondus;40067;849203;NC;40067;
+2013;75;Nouvelle-Aquitaine;Accidents de trajet;6118;1466107;4,2;6118;4.2
+2013;75;Nouvelle-Aquitaine;Accidents du travail;53601;1466107;36,6;53601;36.6
+2013;75;Nouvelle-Aquitaine;Maladies professionnelles;4481;1466107;NC;4481;
+2013;75;Nouvelle-Aquitaine;Tous risques confondus;64200;1466107;NC;64200;
+2013;76;Occitanie;Accidents de trajet;6297;1381414;4,6;6297;4.6
+2013;76;Occitanie;Accidents du travail;52638;1381414;38,1;52638;38.1
+2013;76;Occitanie;Maladies professionnelles;2012;1381414;NC;2012;
+2013;76;Occitanie;Tous risques confondus;60947;1381414;NC;60947;
+2013;84;Auvergne-Rhône-Alpes;Accidents de trajet;11002;2263812;4,9;11002;4.9
+2013;84;Auvergne-Rhône-Alpes;Accidents du travail;84625;2263812;37,4;84625;37.4
+2013;84;Auvergne-Rhône-Alpes;Maladies professionnelles;4688;2263812;NC;4688;
+2013;84;Auvergne-Rhône-Alpes;Tous risques confondus;100315;2263812;NC;100315;
+2013;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8449;1320240;6,4;8449;6.4
+2013;93;Provence-Alpes-Côte d'Azur;Accidents du travail;48616;1320240;36,8;48616;36.8
+2013;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1920;1320240;NC;1920;
+2013;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;58985;1320240;NC;58985;
+2013;94;Corse;Accidents de trajet;415;78921;5,3;415;5.3
+2013;94;Corse;Accidents du travail;3081;78921;39,0;3081;39.0
+2013;94;Corse;Maladies professionnelles;164;78921;NC;164;
+2013;94;Corse;Tous risques confondus;3660;78921;NC;3660;
+2013;99;FRANCE;Accidents de trajet;91195;18645358;4,9;91195;4.9
+2013;99;FRANCE;Accidents du travail;616723;18645358;33,1;616723;33.1
+2013;99;FRANCE;Maladies professionnelles;43137;18645358;NC;43137;
+2013;99;FRANCE;Tous risques confondus;751055;18645358;NC;751055;
+2014;01;Guadeloupe;Accidents de trajet;143;89760;1,6;143;1.6
+2014;01;Guadeloupe;Accidents du travail;1207;89760;13,4;1207;13.4
+2014;01;Guadeloupe;Maladies professionnelles;37;89760;NC;37;
+2014;01;Guadeloupe;Tous risques confondus;1387;89760;NC;1387;
+2014;02;Martinique;Accidents de trajet;227;90793;2,5;227;2.5
+2014;02;Martinique;Accidents du travail;1852;90793;20,4;1852;20.4
+2014;02;Martinique;Maladies professionnelles;77;90793;NC;77;
+2014;02;Martinique;Tous risques confondus;2156;90793;NC;2156;
+2014;03;Guyane;Accidents de trajet;63;38439;1,6;63;1.6
+2014;03;Guyane;Accidents du travail;402;38439;10,5;402;10.5
+2014;03;Guyane;Maladies professionnelles;25;38439;NC;25;
+2014;03;Guyane;Tous risques confondus;490;38439;NC;490;
+2014;04;La Réunion;Accidents de trajet;456;182764;2,5;456;2.5
+2014;04;La Réunion;Accidents du travail;3614;182764;19,8;3614;19.8
+2014;04;La Réunion;Maladies professionnelles;171;182764;NC;171;
+2014;04;La Réunion;Tous risques confondus;4241;182764;NC;4241;
+2014;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2014;06;Mayotte;Accidents du travail;0;0;NC;0;
+2014;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2014;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2014;11;Ile-de-France;Accidents de trajet;25848;4693051;5,5;25848;5.5
+2014;11;Ile-de-France;Accidents du travail;109194;4693051;23,3;109194;23.3
+2014;11;Ile-de-France;Maladies professionnelles;5463;4693051;NC;5463;
+2014;11;Ile-de-France;Tous risques confondus;140505;4693051;NC;140505;
+2014;24;Centre-Val de Loire;Accidents de trajet;2766;648000;4,3;2766;4.3
+2014;24;Centre-Val de Loire;Accidents du travail;24590;648000;37,9;24590;37.9
+2014;24;Centre-Val de Loire;Maladies professionnelles;1526;648000;NC;1526;
+2014;24;Centre-Val de Loire;Tous risques confondus;28882;648000;NC;28882;
+2014;27;Bourgogne-Franche-Comté;Accidents de trajet;2702;701414;3,9;2702;3.9
+2014;27;Bourgogne-Franche-Comté;Accidents du travail;25551;701414;36,4;25551;36.4
+2014;27;Bourgogne-Franche-Comté;Maladies professionnelles;2191;701414;NC;2191;
+2014;27;Bourgogne-Franche-Comté;Tous risques confondus;30444;701414;NC;30444;
+2014;28;Normandie;Accidents de trajet;3545;865623;4,1;3545;4.1
+2014;28;Normandie;Accidents du travail;31519;865623;36,4;31519;36.4
+2014;28;Normandie;Maladies professionnelles;2932;865623;NC;2932;
+2014;28;Normandie;Tous risques confondus;37996;865623;NC;37996;
+2014;32;Hauts-de-France;Accidents de trajet;5705;1525808;3,7;5705;3.7
+2014;32;Hauts-de-France;Accidents du travail;56663;1525808;37,1;56663;37.1
+2014;32;Hauts-de-France;Maladies professionnelles;4649;1525808;NC;4649;
+2014;32;Hauts-de-France;Tous risques confondus;67017;1525808;NC;67017;
+2014;44;Grand Est;Accidents de trajet;4957;1402386;3,5;4957;3.5
+2014;44;Grand Est;Accidents du travail;48196;1402386;34,4;48196;34.4
+2014;44;Grand Est;Maladies professionnelles;4768;1402386;NC;4768;
+2014;44;Grand Est;Tous risques confondus;57921;1402386;NC;57921;
+2014;52;Pays de la Loire;Accidents de trajet;4028;1038709;3,9;4028;3.9
+2014;52;Pays de la Loire;Accidents du travail;38828;1038709;37,4;38828;37.4
+2014;52;Pays de la Loire;Maladies professionnelles;5024;1038709;NC;5024;
+2014;52;Pays de la Loire;Tous risques confondus;47880;1038709;NC;47880;
+2014;53;Bretagne;Accidents de trajet;2881;832603;3,5;2881;3.5
+2014;53;Bretagne;Accidents du travail;32464;832603;39,0;32464;39.0
+2014;53;Bretagne;Maladies professionnelles;3352;832603;NC;3352;
+2014;53;Bretagne;Tous risques confondus;38697;832603;NC;38697;
+2014;75;Nouvelle-Aquitaine;Accidents de trajet;6062;1453052;4,2;6062;4.2
+2014;75;Nouvelle-Aquitaine;Accidents du travail;55638;1453052;38,3;55638;38.3
+2014;75;Nouvelle-Aquitaine;Maladies professionnelles;4678;1453052;NC;4678;
+2014;75;Nouvelle-Aquitaine;Tous risques confondus;66378;1453052;NC;66378;
+2014;76;Occitanie;Accidents de trajet;6306;1380124;4,6;6306;4.6
+2014;76;Occitanie;Accidents du travail;53955;1380124;39,1;53955;39.1
+2014;76;Occitanie;Maladies professionnelles;2109;1380124;NC;2109;
+2014;76;Occitanie;Tous risques confondus;62370;1380124;NC;62370;
+2014;84;Auvergne-Rhône-Alpes;Accidents de trajet;10083;2266180;4,4;10083;4.4
+2014;84;Auvergne-Rhône-Alpes;Accidents du travail;83703;2266180;36,9;83703;36.9
+2014;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5125;2266180;NC;5125;
+2014;84;Auvergne-Rhône-Alpes;Tous risques confondus;98911;2266180;NC;98911;
+2014;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8619;1322768;6,5;8619;6.5
+2014;93;Provence-Alpes-Côte d'Azur;Accidents du travail;48688;1322768;36,8;48688;36.8
+2014;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1858;1322768;NC;1858;
+2014;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;59165;1322768;NC;59165;
+2014;94;Corse;Accidents de trajet;425;79234;5,4;425;5.4
+2014;94;Corse;Accidents du travail;3096;79234;39,1;3096;39.1
+2014;94;Corse;Maladies professionnelles;170;79234;NC;170;
+2014;94;Corse;Tous risques confondus;3691;79234;NC;3691;
+2014;99;FRANCE;Accidents de trajet;84816;18610708;4,6;84816;4.6
+2014;99;FRANCE;Accidents du travail;619160;18610708;33,3;619160;33.3
+2014;99;FRANCE;Maladies professionnelles;44155;18610708;NC;44155;
+2014;99;FRANCE;Tous risques confondus;748131;18610708;NC;748131;
+2015;01;Guadeloupe;Accidents de trajet;136;90669;1,5;136;1.5
+2015;01;Guadeloupe;Accidents du travail;1301;90669;14,3;1301;14.3
+2015;01;Guadeloupe;Maladies professionnelles;25;90669;NC;25;
+2015;01;Guadeloupe;Tous risques confondus;1462;90669;NC;1462;
+2015;02;Martinique;Accidents de trajet;293;90872;3,2;293;3.2
+2015;02;Martinique;Accidents du travail;2351;90872;25,9;2351;25.9
+2015;02;Martinique;Maladies professionnelles;111;90872;NC;111;
+2015;02;Martinique;Tous risques confondus;2755;90872;NC;2755;
+2015;03;Guyane;Accidents de trajet;42;39593;1,1;42;1.1
+2015;03;Guyane;Accidents du travail;359;39593;9,1;359;9.1
+2015;03;Guyane;Maladies professionnelles;27;39593;NC;27;
+2015;03;Guyane;Tous risques confondus;428;39593;NC;428;
+2015;04;La Réunion;Accidents de trajet;589;188945;3,1;589;3.1
+2015;04;La Réunion;Accidents du travail;4242;188945;22,5;4242;22.5
+2015;04;La Réunion;Maladies professionnelles;234;188945;NC;234;
+2015;04;La Réunion;Tous risques confondus;5065;188945;NC;5065;
+2015;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2015;06;Mayotte;Accidents du travail;0;0;NC;0;
+2015;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2015;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2015;11;Ile-de-France;Accidents de trajet;26063;4784394;5,4;26063;5.4
+2015;11;Ile-de-France;Accidents du travail;109746;4784394;22,9;109746;22.9
+2015;11;Ile-de-France;Maladies professionnelles;5680;4784394;NC;5680;
+2015;11;Ile-de-France;Tous risques confondus;141489;4784394;NC;141489;
+2015;24;Centre-Val de Loire;Accidents de trajet;2625;646136;4,1;2625;4.1
+2015;24;Centre-Val de Loire;Accidents du travail;24528;646136;38,0;24528;38.0
+2015;24;Centre-Val de Loire;Maladies professionnelles;1514;646136;NC;1514;
+2015;24;Centre-Val de Loire;Tous risques confondus;28667;646136;NC;28667;
+2015;27;Bourgogne-Franche-Comté;Accidents de trajet;2670;699224;3,8;2670;3.8
+2015;27;Bourgogne-Franche-Comté;Accidents du travail;25580;699224;36,6;25580;36.6
+2015;27;Bourgogne-Franche-Comté;Maladies professionnelles;2161;699224;NC;2161;
+2015;27;Bourgogne-Franche-Comté;Tous risques confondus;30411;699224;NC;30411;
+2015;28;Normandie;Accidents de trajet;3606;862176;4,2;3606;4.2
+2015;28;Normandie;Accidents du travail;31521;862176;36,6;31521;36.6
+2015;28;Normandie;Maladies professionnelles;2776;862176;NC;2776;
+2015;28;Normandie;Tous risques confondus;37903;862176;NC;37903;
+2015;32;Hauts-de-France;Accidents de trajet;5994;1528410;3,9;5994;3.9
+2015;32;Hauts-de-France;Accidents du travail;56802;1528410;37,2;56802;37.2
+2015;32;Hauts-de-France;Maladies professionnelles;4368;1528410;NC;4368;
+2015;32;Hauts-de-France;Tous risques confondus;67164;1528410;NC;67164;
+2015;44;Grand Est;Accidents de trajet;5365;1397587;3,8;5365;3.8
+2015;44;Grand Est;Accidents du travail;47957;1397587;34,3;47957;34.3
+2015;44;Grand Est;Maladies professionnelles;4787;1397587;NC;4787;
+2015;44;Grand Est;Tous risques confondus;58109;1397587;NC;58109;
+2015;52;Pays de la Loire;Accidents de trajet;4201;1045312;4,0;4201;4.0
+2015;52;Pays de la Loire;Accidents du travail;39730;1045312;38,0;39730;38.0
+2015;52;Pays de la Loire;Maladies professionnelles;4813;1045312;NC;4813;
+2015;52;Pays de la Loire;Tous risques confondus;48744;1045312;NC;48744;
+2015;53;Bretagne;Accidents de trajet;2827;836797;3,4;2827;3.4
+2015;53;Bretagne;Accidents du travail;32279;836797;38,6;32279;38.6
+2015;53;Bretagne;Maladies professionnelles;3328;836797;NC;3328;
+2015;53;Bretagne;Tous risques confondus;38434;836797;NC;38434;
+2015;75;Nouvelle-Aquitaine;Accidents de trajet;6066;1461429;4,2;6066;4.2
+2015;75;Nouvelle-Aquitaine;Accidents du travail;55900;1461429;38,3;55900;38.3
+2015;75;Nouvelle-Aquitaine;Maladies professionnelles;4440;1461429;NC;4440;
+2015;75;Nouvelle-Aquitaine;Tous risques confondus;66406;1461429;NC;66406;
+2015;76;Occitanie;Accidents de trajet;6517;1395880;4,7;6517;4.7
+2015;76;Occitanie;Accidents du travail;53878;1395880;38,6;53878;38.6
+2015;76;Occitanie;Maladies professionnelles;2173;1395880;NC;2173;
+2015;76;Occitanie;Tous risques confondus;62568;1395880;NC;62568;
+2015;84;Auvergne-Rhône-Alpes;Accidents de trajet;10085;2290224;4,4;10085;4.4
+2015;84;Auvergne-Rhône-Alpes;Accidents du travail;84398;2290224;36,9;84398;36.9
+2015;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5097;2290224;NC;5097;
+2015;84;Auvergne-Rhône-Alpes;Tous risques confondus;99580;2290224;NC;99580;
+2015;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8704;1333434;6,5;8704;6.5
+2015;93;Provence-Alpes-Côte d'Azur;Accidents du travail;48922;1333434;36,7;48922;36.7
+2015;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1839;1333434;NC;1839;
+2015;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;59465;1333434;NC;59465;
+2015;94;Corse;Accidents de trajet;440;79314;5,5;440;5.5
+2015;94;Corse;Accidents du travail;3041;79314;38,3;3041;38.3
+2015;94;Corse;Maladies professionnelles;158;79314;NC;158;
+2015;94;Corse;Tous risques confondus;3639;79314;NC;3639;
+2015;99;FRANCE;Accidents de trajet;86223;18770396;4,6;86223;4.6
+2015;99;FRANCE;Accidents du travail;622535;18770396;33,2;622535;33.2
+2015;99;FRANCE;Maladies professionnelles;43531;18770396;NC;43531;
+2015;99;FRANCE;Tous risques confondus;752289;18770396;NC;752289;
+2016;01;Guadeloupe;Accidents de trajet;169;91216;1,9;169;1.9
+2016;01;Guadeloupe;Accidents du travail;1394;91216;15,3;1394;15.3
+2016;01;Guadeloupe;Maladies professionnelles;42;91216;NC;42;
+2016;01;Guadeloupe;Tous risques confondus;1605;91216;NC;1605;
+2016;02;Martinique;Accidents de trajet;312;91626;3,4;312;3.4
+2016;02;Martinique;Accidents du travail;2494;91626;27,2;2494;27.2
+2016;02;Martinique;Maladies professionnelles;99;91626;NC;99;
+2016;02;Martinique;Tous risques confondus;2905;91626;NC;2905;
+2016;03;Guyane;Accidents de trajet;86;39870;2,2;86;2.2
+2016;03;Guyane;Accidents du travail;549;39870;13,8;549;13.8
+2016;03;Guyane;Maladies professionnelles;19;39870;NC;19;
+2016;03;Guyane;Tous risques confondus;654;39870;NC;654;
+2016;04;La Réunion;Accidents de trajet;620;193090;3,2;620;3.2
+2016;04;La Réunion;Accidents du travail;4934;193090;25,6;4934;25.6
+2016;04;La Réunion;Maladies professionnelles;261;193090;NC;261;
+2016;04;La Réunion;Tous risques confondus;5815;193090;NC;5815;
+2016;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2016;06;Mayotte;Accidents du travail;0;0;NC;0;
+2016;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2016;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2016;11;Ile-de-France;Accidents de trajet;25955;4812729;5,4;25955;5.4
+2016;11;Ile-de-France;Accidents du travail;109120;4812729;22,7;109120;22.7
+2016;11;Ile-de-France;Maladies professionnelles;5585;4812729;NC;5585;
+2016;11;Ile-de-France;Tous risques confondus;140660;4812729;NC;140660;
+2016;24;Centre-Val de Loire;Accidents de trajet;2760;643959;4,3;2760;4.3
+2016;24;Centre-Val de Loire;Accidents du travail;23762;643959;36,9;23762;36.9
+2016;24;Centre-Val de Loire;Maladies professionnelles;1264;643959;NC;1264;
+2016;24;Centre-Val de Loire;Tous risques confondus;27786;643959;NC;27786;
+2016;27;Bourgogne-Franche-Comté;Accidents de trajet;2679;697880;3,8;2679;3.8
+2016;27;Bourgogne-Franche-Comté;Accidents du travail;26696;697880;38,3;26696;38.3
+2016;27;Bourgogne-Franche-Comté;Maladies professionnelles;2008;697880;NC;2008;
+2016;27;Bourgogne-Franche-Comté;Tous risques confondus;31383;697880;NC;31383;
+2016;28;Normandie;Accidents de trajet;3536;855262;4,1;3536;4.1
+2016;28;Normandie;Accidents du travail;31811;855262;37,2;31811;37.2
+2016;28;Normandie;Maladies professionnelles;2573;855262;NC;2573;
+2016;28;Normandie;Tous risques confondus;37920;855262;NC;37920;
+2016;32;Hauts-de-France;Accidents de trajet;6072;1528016;4,0;6072;4.0
+2016;32;Hauts-de-France;Accidents du travail;56909;1528016;37,2;56909;37.2
+2016;32;Hauts-de-France;Maladies professionnelles;4160;1528016;NC;4160;
+2016;32;Hauts-de-France;Tous risques confondus;67141;1528016;NC;67141;
+2016;44;Grand Est;Accidents de trajet;5045;1396339;3,6;5045;3.6
+2016;44;Grand Est;Accidents du travail;46940;1396339;33,6;46940;33.6
+2016;44;Grand Est;Maladies professionnelles;4506;1396339;NC;4506;
+2016;44;Grand Est;Tous risques confondus;56491;1396339;NC;56491;
+2016;52;Pays de la Loire;Accidents de trajet;4104;1056604;3,9;4104;3.9
+2016;52;Pays de la Loire;Accidents du travail;40279;1056604;38,1;40279;38.1
+2016;52;Pays de la Loire;Maladies professionnelles;4704;1056604;NC;4704;
+2016;52;Pays de la Loire;Tous risques confondus;49087;1056604;NC;49087;
+2016;53;Bretagne;Accidents de trajet;3010;842589;3,6;3010;3.6
+2016;53;Bretagne;Accidents du travail;32577;842589;38,7;32577;38.7
+2016;53;Bretagne;Maladies professionnelles;3135;842589;NC;3135;
+2016;53;Bretagne;Tous risques confondus;38722;842589;NC;38722;
+2016;75;Nouvelle-Aquitaine;Accidents de trajet;6429;1470269;4,4;6429;4.4
+2016;75;Nouvelle-Aquitaine;Accidents du travail;56787;1470269;38,6;56787;38.6
+2016;75;Nouvelle-Aquitaine;Maladies professionnelles;4373;1470269;NC;4373;
+2016;75;Nouvelle-Aquitaine;Tous risques confondus;67589;1470269;NC;67589;
+2016;76;Occitanie;Accidents de trajet;6680;1407164;4,7;6680;4.7
+2016;76;Occitanie;Accidents du travail;54480;1407164;38,7;54480;38.7
+2016;76;Occitanie;Maladies professionnelles;2121;1407164;NC;2121;
+2016;76;Occitanie;Tous risques confondus;63281;1407164;NC;63281;
+2016;84;Auvergne-Rhône-Alpes;Accidents de trajet;10481;2299920;4,6;10481;4.6
+2016;84;Auvergne-Rhône-Alpes;Accidents du travail;83913;2299920;36,5;83913;36.5
+2016;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5052;2299920;NC;5052;
+2016;84;Auvergne-Rhône-Alpes;Tous risques confondus;99446;2299920;NC;99446;
+2016;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;9028;1344251;6,7;9028;6.7
+2016;93;Provence-Alpes-Côte d'Azur;Accidents du travail;48387;1344251;36,0;48387;36.0
+2016;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1699;1344251;NC;1699;
+2016;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;59114;1344251;NC;59114;
+2016;94;Corse;Accidents de trajet;430;80456;5,3;430;5.3
+2016;94;Corse;Accidents du travail;3228;80456;40,1;3228;40.1
+2016;94;Corse;Maladies professionnelles;144;80456;NC;144;
+2016;94;Corse;Tous risques confondus;3802;80456;NC;3802;
+2016;99;FRANCE;Accidents de trajet;87396;18851240;4,6;87396;4.6
+2016;99;FRANCE;Accidents du travail;624260;18851240;33,1;624260;33.1
+2016;99;FRANCE;Maladies professionnelles;41745;18851240;NC;41745;
+2016;99;FRANCE;Tous risques confondus;753401;18851240;NC;753401;
+2017;01;Guadeloupe;Accidents de trajet;252;90041;2,8;252;2.8
+2017;01;Guadeloupe;Accidents du travail;2232;90041;24,8;2232;24.8
+2017;01;Guadeloupe;Maladies professionnelles;38;90041;NC;38;
+2017;01;Guadeloupe;Tous risques confondus;2522;90041;NC;2522;
+2017;02;Martinique;Accidents de trajet;276;89921;3,1;276;3.1
+2017;02;Martinique;Accidents du travail;2331;89921;25,9;2331;25.9
+2017;02;Martinique;Maladies professionnelles;78;89921;NC;78;
+2017;02;Martinique;Tous risques confondus;2685;89921;NC;2685;
+2017;03;Guyane;Accidents de trajet;55;39717;1,4;55;1.4
+2017;03;Guyane;Accidents du travail;450;39717;11,3;450;11.3
+2017;03;Guyane;Maladies professionnelles;23;39717;NC;23;
+2017;03;Guyane;Tous risques confondus;528;39717;NC;528;
+2017;04;La Réunion;Accidents de trajet;601;192383;3,1;601;3.1
+2017;04;La Réunion;Accidents du travail;4957;192383;25,8;4957;25.8
+2017;04;La Réunion;Maladies professionnelles;266;192383;NC;266;
+2017;04;La Réunion;Tous risques confondus;5824;192383;NC;5824;
+2017;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2017;06;Mayotte;Accidents du travail;0;0;NC;0;
+2017;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2017;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2017;11;Ile-de-France;Accidents de trajet;27143;4875421;5,6;27143;5.6
+2017;11;Ile-de-France;Accidents du travail;106962;4875421;21,9;106962;21.9
+2017;11;Ile-de-France;Maladies professionnelles;5262;4875421;NC;5262;
+2017;11;Ile-de-France;Tous risques confondus;139367;4875421;NC;139367;
+2017;24;Centre-Val de Loire;Accidents de trajet;2771;661578;4,2;2771;4.2
+2017;24;Centre-Val de Loire;Accidents du travail;24273;661578;36,7;24273;36.7
+2017;24;Centre-Val de Loire;Maladies professionnelles;1399;661578;NC;1399;
+2017;24;Centre-Val de Loire;Tous risques confondus;28443;661578;NC;28443;
+2017;27;Bourgogne-Franche-Comté;Accidents de trajet;2735;712235;3,8;2735;3.8
+2017;27;Bourgogne-Franche-Comté;Accidents du travail;26639;712235;37,4;26639;37.4
+2017;27;Bourgogne-Franche-Comté;Maladies professionnelles;2052;712235;NC;2052;
+2017;27;Bourgogne-Franche-Comté;Tous risques confondus;31426;712235;NC;31426;
+2017;28;Normandie;Accidents de trajet;3675;867530;4,2;3675;4.2
+2017;28;Normandie;Accidents du travail;31867;867530;36,7;31867;36.7
+2017;28;Normandie;Maladies professionnelles;2650;867530;NC;2650;
+2017;28;Normandie;Tous risques confondus;38192;867530;NC;38192;
+2017;32;Hauts-de-France;Accidents de trajet;6375;1549280;4,1;6375;4.1
+2017;32;Hauts-de-France;Accidents du travail;58180;1549280;37,6;58180;37.6
+2017;32;Hauts-de-France;Maladies professionnelles;4479;1549280;NC;4479;
+2017;32;Hauts-de-France;Tous risques confondus;69034;1549280;NC;69034;
+2017;44;Grand Est;Accidents de trajet;5466;1439510;3,8;5466;3.8
+2017;44;Grand Est;Accidents du travail;47730;1439510;33,2;47730;33.2
+2017;44;Grand Est;Maladies professionnelles;4671;1439510;NC;4671;
+2017;44;Grand Est;Tous risques confondus;57867;1439510;NC;57867;
+2017;52;Pays de la Loire;Accidents de trajet;4371;1102581;4,0;4371;4.0
+2017;52;Pays de la Loire;Accidents du travail;40718;1102581;36,9;40718;36.9
+2017;52;Pays de la Loire;Maladies professionnelles;4752;1102581;NC;4752;
+2017;52;Pays de la Loire;Tous risques confondus;49841;1102581;NC;49841;
+2017;53;Bretagne;Accidents de trajet;3362;869334;3,9;3362;3.9
+2017;53;Bretagne;Accidents du travail;34028;869334;39,1;34028;39.1
+2017;53;Bretagne;Maladies professionnelles;3230;869334;NC;3230;
+2017;53;Bretagne;Tous risques confondus;40620;869334;NC;40620;
+2017;75;Nouvelle-Aquitaine;Accidents de trajet;6520;1509113;4,3;6520;4.3
+2017;75;Nouvelle-Aquitaine;Accidents du travail;58467;1509113;38,7;58467;38.7
+2017;75;Nouvelle-Aquitaine;Maladies professionnelles;4496;1509113;NC;4496;
+2017;75;Nouvelle-Aquitaine;Tous risques confondus;69483;1509113;NC;69483;
+2017;76;Occitanie;Accidents de trajet;6880;1449044;4,7;6880;4.7
+2017;76;Occitanie;Accidents du travail;54221;1449044;37,4;54221;37.4
+2017;76;Occitanie;Maladies professionnelles;2124;1449044;NC;2124;
+2017;76;Occitanie;Tous risques confondus;63225;1449044;NC;63225;
+2017;84;Auvergne-Rhône-Alpes;Accidents de trajet;11238;2342139;4,8;11238;4.8
+2017;84;Auvergne-Rhône-Alpes;Accidents du travail;85695;2342139;36,6;85695;36.6
+2017;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5242;2342139;NC;5242;
+2017;84;Auvergne-Rhône-Alpes;Tous risques confondus;102175;2342139;NC;102175;
+2017;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8972;1375386;6,5;8972;6.5
+2017;93;Provence-Alpes-Côte d'Azur;Accidents du travail;49341;1375386;35,9;49341;35.9
+2017;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1842;1375386;NC;1842;
+2017;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;60155;1375386;NC;60155;
+2017;94;Corse;Accidents de trajet;444;84585;5,2;444;5.2
+2017;94;Corse;Accidents du travail;3114;84585;36,8;3114;36.8
+2017;94;Corse;Maladies professionnelles;160;84585;NC;160;
+2017;94;Corse;Tous risques confondus;3718;84585;NC;3718;
+2017;99;FRANCE;Accidents de trajet;91136;19249798;4,7;91136;4.7
+2017;99;FRANCE;Accidents du travail;631205;19249798;32,8;631205;32.8
+2017;99;FRANCE;Maladies professionnelles;42764;19249798;NC;42764;
+2017;99;FRANCE;Tous risques confondus;765105;19249798;NC;765105;
+2018;01;Guadeloupe;Accidents de trajet;179;84496;2,1;179;2.1
+2018;01;Guadeloupe;Accidents du travail;1612;84496;19,1;1612;19.1
+2018;01;Guadeloupe;Maladies professionnelles;52;84496;NC;52;
+2018;01;Guadeloupe;Tous risques confondus;1843;84496;NC;1843;
+2018;02;Martinique;Accidents de trajet;285;87170;3,3;285;3.3
+2018;02;Martinique;Accidents du travail;2329;87170;26,7;2329;26.7
+2018;02;Martinique;Maladies professionnelles;85;87170;NC;85;
+2018;02;Martinique;Tous risques confondus;2699;87170;NC;2699;
+2018;03;Guyane;Accidents de trajet;50;40765;1,2;50;1.2
+2018;03;Guyane;Accidents du travail;366;40765;9,0;366;9.0
+2018;03;Guyane;Maladies professionnelles;12;40765;NC;12;
+2018;03;Guyane;Tous risques confondus;428;40765;NC;428;
+2018;04;La Réunion;Accidents de trajet;671;186519;3,6;671;3.6
+2018;04;La Réunion;Accidents du travail;5106;186519;27,4;5106;27.4
+2018;04;La Réunion;Maladies professionnelles;278;186519;NC;278;
+2018;04;La Réunion;Tous risques confondus;6055;186519;NC;6055;
+2018;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2018;06;Mayotte;Accidents du travail;0;0;NC;0;
+2018;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2018;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2018;11;Ile-de-France;Accidents de trajet;30080;4869064;6,2;30080;6.2
+2018;11;Ile-de-France;Accidents du travail;105956;4869064;21,8;105956;21.8
+2018;11;Ile-de-France;Maladies professionnelles;5501;4869064;NC;5501;
+2018;11;Ile-de-France;Tous risques confondus;141537;4869064;NC;141537;
+2018;24;Centre-Val de Loire;Accidents de trajet;3081;651219;4,7;3081;4.7
+2018;24;Centre-Val de Loire;Accidents du travail;25086;651219;38,5;25086;38.5
+2018;24;Centre-Val de Loire;Maladies professionnelles;1377;651219;NC;1377;
+2018;24;Centre-Val de Loire;Tous risques confondus;29544;651219;NC;29544;
+2018;27;Bourgogne-Franche-Comté;Accidents de trajet;2865;702975;4,1;2865;4.1
+2018;27;Bourgogne-Franche-Comté;Accidents du travail;26803;702975;38,1;26803;38.1
+2018;27;Bourgogne-Franche-Comté;Maladies professionnelles;2164;702975;NC;2164;
+2018;27;Bourgogne-Franche-Comté;Tous risques confondus;31832;702975;NC;31832;
+2018;28;Normandie;Accidents de trajet;4118;879087;4,7;4118;4.7
+2018;28;Normandie;Accidents du travail;33108;879087;37,7;33108;37.7
+2018;28;Normandie;Maladies professionnelles;3142;879087;NC;3142;
+2018;28;Normandie;Tous risques confondus;40368;879087;NC;40368;
+2018;32;Hauts-de-France;Accidents de trajet;6728;1526637;4,4;6728;4.4
+2018;32;Hauts-de-France;Accidents du travail;60073;1526637;39,3;60073;39.3
+2018;32;Hauts-de-France;Maladies professionnelles;4694;1526637;NC;4694;
+2018;32;Hauts-de-France;Tous risques confondus;71495;1526637;NC;71495;
+2018;44;Grand Est;Accidents de trajet;5561;1425013;3,9;5561;3.9
+2018;44;Grand Est;Accidents du travail;48981;1425013;34,4;48981;34.4
+2018;44;Grand Est;Maladies professionnelles;4869;1425013;NC;4869;
+2018;44;Grand Est;Tous risques confondus;59411;1425013;NC;59411;
+2018;52;Pays de la Loire;Accidents de trajet;5100;1095342;4,7;5100;4.7
+2018;52;Pays de la Loire;Accidents du travail;44616;1095342;40,7;44616;40.7
+2018;52;Pays de la Loire;Maladies professionnelles;5389;1095342;NC;5389;
+2018;52;Pays de la Loire;Tous risques confondus;55105;1095342;NC;55105;
+2018;53;Bretagne;Accidents de trajet;3333;860895;3,9;3333;3.9
+2018;53;Bretagne;Accidents du travail;34608;860895;40,2;34608;40.2
+2018;53;Bretagne;Maladies professionnelles;3462;860895;NC;3462;
+2018;53;Bretagne;Tous risques confondus;41403;860895;NC;41403;
+2018;75;Nouvelle-Aquitaine;Accidents de trajet;6956;1517782;4,6;6956;4.6
+2018;75;Nouvelle-Aquitaine;Accidents du travail;61158;1517782;40,3;61158;40.3
+2018;75;Nouvelle-Aquitaine;Maladies professionnelles;4717;1517782;NC;4717;
+2018;75;Nouvelle-Aquitaine;Tous risques confondus;72831;1517782;NC;72831;
+2018;76;Occitanie;Accidents de trajet;7309;1447490;5,0;7309;5.0
+2018;76;Occitanie;Accidents du travail;56419;1447490;39,0;56419;39.0
+2018;76;Occitanie;Maladies professionnelles;2355;1447490;NC;2355;
+2018;76;Occitanie;Tous risques confondus;66083;1447490;NC;66083;
+2018;84;Auvergne-Rhône-Alpes;Accidents de trajet;11246;2341862;4,8;11246;4.8
+2018;84;Auvergne-Rhône-Alpes;Accidents du travail;88592;2341862;37,8;88592;37.8
+2018;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5412;2341862;NC;5412;
+2018;84;Auvergne-Rhône-Alpes;Tous risques confondus;105250;2341862;NC;105250;
+2018;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;9513;1368612;7,0;9513;7.0
+2018;93;Provence-Alpes-Côte d'Azur;Accidents du travail;51381;1368612;37,5;51381;37.5
+2018;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2117;1368612;NC;2117;
+2018;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;63011;1368612;NC;63011;
+2018;94;Corse;Accidents de trajet;463;87003;5,3;463;5.3
+2018;94;Corse;Accidents du travail;3341;87003;38,4;3341;38.4
+2018;94;Corse;Maladies professionnelles;153;87003;NC;153;
+2018;94;Corse;Tous risques confondus;3957;87003;NC;3957;
+2018;99;FRANCE;Accidents de trajet;97538;19171931;5,1;97538;5.1
+2018;99;FRANCE;Accidents du travail;649535;19171931;33,9;649535;33.9
+2018;99;FRANCE;Maladies professionnelles;45779;19171931;NC;45779;
+2018;99;FRANCE;Tous risques confondus;792852;19171931;NC;792852;
+2019;01;Guadeloupe;Accidents de trajet;191;89176;2,1;191;2.1
+2019;01;Guadeloupe;Accidents du travail;1660;89176;18,6;1660;18.6
+2019;01;Guadeloupe;Maladies professionnelles;57;89176;NC;57;
+2019;01;Guadeloupe;Tous risques confondus;1908;89176;NC;1908;
+2019;02;Martinique;Accidents de trajet;296;88763;3,3;296;3.3
+2019;02;Martinique;Accidents du travail;2295;88763;25,9;2295;25.9
+2019;02;Martinique;Maladies professionnelles;76;88763;NC;76;
+2019;02;Martinique;Tous risques confondus;2667;88763;NC;2667;
+2019;03;Guyane;Accidents de trajet;40;42847;0,9;40;0.9
+2019;03;Guyane;Accidents du travail;334;42847;7,8;334;7.8
+2019;03;Guyane;Maladies professionnelles;6;42847;NC;6;
+2019;03;Guyane;Tous risques confondus;380;42847;NC;380;
+2019;04;La Réunion;Accidents de trajet;734;192949;3,8;734;3.8
+2019;04;La Réunion;Accidents du travail;5642;192949;29,2;5642;29.2
+2019;04;La Réunion;Maladies professionnelles;291;192949;NC;291;
+2019;04;La Réunion;Tous risques confondus;6667;192949;NC;6667;
+2019;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2019;06;Mayotte;Accidents du travail;0;0;NC;0;
+2019;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2019;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2019;11;Ile-de-France;Accidents de trajet;28262;4981481;5,7;28262;5.7
+2019;11;Ile-de-France;Accidents du travail;107013;4981481;21,5;107013;21.5
+2019;11;Ile-de-France;Maladies professionnelles;5743;4981481;NC;5743;
+2019;11;Ile-de-France;Tous risques confondus;141018;4981481;NC;141018;
+2019;24;Centre-Val de Loire;Accidents de trajet;3077;657679;4,7;3077;4.7
+2019;24;Centre-Val de Loire;Accidents du travail;25729;657679;39,1;25729;39.1
+2019;24;Centre-Val de Loire;Maladies professionnelles;1440;657679;NC;1440;
+2019;24;Centre-Val de Loire;Tous risques confondus;30246;657679;NC;30246;
+2019;27;Bourgogne-Franche-Comté;Accidents de trajet;2872;709106;4,1;2872;4.1
+2019;27;Bourgogne-Franche-Comté;Accidents du travail;26157;709106;36,9;26157;36.9
+2019;27;Bourgogne-Franche-Comté;Maladies professionnelles;2367;709106;NC;2367;
+2019;27;Bourgogne-Franche-Comté;Tous risques confondus;31396;709106;NC;31396;
+2019;28;Normandie;Accidents de trajet;4010;896103;4,5;4010;4.5
+2019;28;Normandie;Accidents du travail;33105;896103;36,9;33105;36.9
+2019;28;Normandie;Maladies professionnelles;2875;896103;NC;2875;
+2019;28;Normandie;Tous risques confondus;39990;896103;NC;39990;
+2019;32;Hauts-de-France;Accidents de trajet;7072;1547686;4,6;7072;4.6
+2019;32;Hauts-de-France;Accidents du travail;59924;1547686;38,7;59924;38.7
+2019;32;Hauts-de-France;Maladies professionnelles;4867;1547686;NC;4867;
+2019;32;Hauts-de-France;Tous risques confondus;71863;1547686;NC;71863;
+2019;44;Grand Est;Accidents de trajet;6070;1432603;4,2;6070;4.2
+2019;44;Grand Est;Accidents du travail;49720;1432603;34,7;49720;34.7
+2019;44;Grand Est;Maladies professionnelles;4864;1432603;NC;4864;
+2019;44;Grand Est;Tous risques confondus;60654;1432603;NC;60654;
+2019;52;Pays de la Loire;Accidents de trajet;5124;1121917;4,6;5124;4.6
+2019;52;Pays de la Loire;Accidents du travail;45572;1121917;40,6;45572;40.6
+2019;52;Pays de la Loire;Maladies professionnelles;5463;1121917;NC;5463;
+2019;52;Pays de la Loire;Tous risques confondus;56159;1121917;NC;56159;
+2019;53;Bretagne;Accidents de trajet;3389;884357;3,8;3389;3.8
+2019;53;Bretagne;Accidents du travail;36588;884357;41,4;36588;41.4
+2019;53;Bretagne;Maladies professionnelles;3227;884357;NC;3227;
+2019;53;Bretagne;Tous risques confondus;43204;884357;NC;43204;
+2019;75;Nouvelle-Aquitaine;Accidents de trajet;7086;1541477;4,6;7086;4.6
+2019;75;Nouvelle-Aquitaine;Accidents du travail;60228;1541477;39,1;60228;39.1
+2019;75;Nouvelle-Aquitaine;Maladies professionnelles;5036;1541477;NC;5036;
+2019;75;Nouvelle-Aquitaine;Tous risques confondus;72350;1541477;NC;72350;
+2019;76;Occitanie;Accidents de trajet;7303;1487005;4,9;7303;4.9
+2019;76;Occitanie;Accidents du travail;56744;1487005;38,2;56744;38.2
+2019;76;Occitanie;Maladies professionnelles;2402;1487005;NC;2402;
+2019;76;Occitanie;Tous risques confondus;66449;1487005;NC;66449;
+2019;84;Auvergne-Rhône-Alpes;Accidents de trajet;12384;2394901;5,2;12384;5.2
+2019;84;Auvergne-Rhône-Alpes;Accidents du travail;88057;2394901;36,8;88057;36.8
+2019;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5983;2394901;NC;5983;
+2019;84;Auvergne-Rhône-Alpes;Tous risques confondus;106424;2394901;NC;106424;
+2019;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;10042;1400591;7,2;10042;7.2
+2019;93;Provence-Alpes-Côte d'Azur;Accidents du travail;51752;1400591;37,0;51752;37.0
+2019;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2211;1400591;NC;2211;
+2019;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;64005;1400591;NC;64005;
+2019;94;Corse;Accidents de trajet;498;88082;5,7;498;5.7
+2019;94;Corse;Accidents du travail;3327;88082;37,8;3327;37.8
+2019;94;Corse;Maladies professionnelles;182;88082;NC;182;
+2019;94;Corse;Tous risques confondus;4007;88082;NC;4007;
+2019;99;FRANCE;Accidents de trajet;98450;19556723;5,0;98450;5.0
+2019;99;FRANCE;Accidents du travail;653847;19556723;33,4;653847;33.4
+2019;99;FRANCE;Maladies professionnelles;47090;19556723;NC;47090;
+2019;99;FRANCE;Tous risques confondus;799387;19556723;NC;799387;
+2020;01;Guadeloupe;Accidents de trajet;189;87252;NC;189;
+2020;01;Guadeloupe;Accidents du travail;1710;87252;NC;1710;
+2020;01;Guadeloupe;Maladies professionnelles;49;87252;NC;49;
+2020;01;Guadeloupe;Tous risques confondus;1948;87252;NC;1948;
+2020;02;Martinique;Accidents de trajet;210;88238;NC;210;
+2020;02;Martinique;Accidents du travail;1706;88238;NC;1706;
+2020;02;Martinique;Maladies professionnelles;99;88238;NC;99;
+2020;02;Martinique;Tous risques confondus;2015;88238;NC;2015;
+2020;03;Guyane;Accidents de trajet;45;43306;NC;45;
+2020;03;Guyane;Accidents du travail;293;43306;NC;293;
+2020;03;Guyane;Maladies professionnelles;6;43306;NC;6;
+2020;03;Guyane;Tous risques confondus;344;43306;NC;344;
+2020;04;La Réunion;Accidents de trajet;609;195904;NC;609;
+2020;04;La Réunion;Accidents du travail;5235;195904;NC;5235;
+2020;04;La Réunion;Maladies professionnelles;253;195904;NC;253;
+2020;04;La Réunion;Tous risques confondus;6097;195904;NC;6097;
+2020;06;Mayotte;Accidents de trajet;0;0;NC;0;
+2020;06;Mayotte;Accidents du travail;0;0;NC;0;
+2020;06;Mayotte;Maladies professionnelles;0;0;NC;0;
+2020;06;Mayotte;Tous risques confondus;0;0;NC;0;
+2020;11;Ile-de-France;Accidents de trajet;23429;4917030;NC;23429;
+2020;11;Ile-de-France;Accidents du travail;82605;4917030;NC;82605;
+2020;11;Ile-de-France;Maladies professionnelles;5057;4917030;NC;5057;
+2020;11;Ile-de-France;Tous risques confondus;111091;4917030;NC;111091;
+2020;24;Centre-Val de Loire;Accidents de trajet;2467;649825;NC;2467;
+2020;24;Centre-Val de Loire;Accidents du travail;20913;649825;NC;20913;
+2020;24;Centre-Val de Loire;Maladies professionnelles;1269;649825;NC;1269;
+2020;24;Centre-Val de Loire;Tous risques confondus;24649;649825;NC;24649;
+2020;27;Bourgogne-Franche-Comté;Accidents de trajet;2352;695532;NC;2352;
+2020;27;Bourgogne-Franche-Comté;Accidents du travail;21851;695532;NC;21851;
+2020;27;Bourgogne-Franche-Comté;Maladies professionnelles;1892;695532;NC;1892;
+2020;27;Bourgogne-Franche-Comté;Tous risques confondus;26095;695532;NC;26095;
+2020;28;Normandie;Accidents de trajet;3142;872787;NC;3142;
+2020;28;Normandie;Accidents du travail;27551;872787;NC;27551;
+2020;28;Normandie;Maladies professionnelles;2400;872787;NC;2400;
+2020;28;Normandie;Tous risques confondus;33093;872787;NC;33093;
+2020;32;Hauts-de-France;Accidents de trajet;5444;1523027;NC;5444;
+2020;32;Hauts-de-France;Accidents du travail;50389;1523027;NC;50389;
+2020;32;Hauts-de-France;Maladies professionnelles;3967;1523027;NC;3967;
+2020;32;Hauts-de-France;Tous risques confondus;59800;1523027;NC;59800;
+2020;44;Grand Est;Accidents de trajet;4641;1406680;NC;4641;
+2020;44;Grand Est;Accidents du travail;40235;1406680;NC;40235;
+2020;44;Grand Est;Maladies professionnelles;3615;1406680;NC;3615;
+2020;44;Grand Est;Tous risques confondus;48491;1406680;NC;48491;
+2020;52;Pays de la Loire;Accidents de trajet;4119;1117642;NC;4119;
+2020;52;Pays de la Loire;Accidents du travail;36993;1117642;NC;36993;
+2020;52;Pays de la Loire;Maladies professionnelles;3955;1117642;NC;3955;
+2020;52;Pays de la Loire;Tous risques confondus;45067;1117642;NC;45067;
+2020;53;Bretagne;Accidents de trajet;2769;881569;NC;2769;
+2020;53;Bretagne;Accidents du travail;31260;881569;NC;31260;
+2020;53;Bretagne;Maladies professionnelles;2743;881569;NC;2743;
+2020;53;Bretagne;Tous risques confondus;36772;881569;NC;36772;
+2020;75;Nouvelle-Aquitaine;Accidents de trajet;6050;1534900;NC;6050;
+2020;75;Nouvelle-Aquitaine;Accidents du travail;53260;1534900;NC;53260;
+2020;75;Nouvelle-Aquitaine;Maladies professionnelles;4139;1534900;NC;4139;
+2020;75;Nouvelle-Aquitaine;Tous risques confondus;63449;1534900;NC;63449;
+2020;76;Occitanie;Accidents de trajet;5877;1486853;NC;5877;
+2020;76;Occitanie;Accidents du travail;47478;1486853;NC;47478;
+2020;76;Occitanie;Maladies professionnelles;1878;1486853;NC;1878;
+2020;76;Occitanie;Tous risques confondus;55233;1486853;NC;55233;
+2020;84;Auvergne-Rhône-Alpes;Accidents de trajet;9268;2374947;NC;9268;
+2020;84;Auvergne-Rhône-Alpes;Accidents du travail;70922;2374947;NC;70922;
+2020;84;Auvergne-Rhône-Alpes;Maladies professionnelles;4910;2374947;NC;4910;
+2020;84;Auvergne-Rhône-Alpes;Tous risques confondus;85100;2374947;NC;85100;
+2020;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;8188;1383709;NC;8188;
+2020;93;Provence-Alpes-Côte d'Azur;Accidents du travail;43399;1383709;NC;43399;
+2020;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;1762;1383709;NC;1762;
+2020;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;53349;1383709;NC;53349;
+2020;94;Corse;Accidents de trajet;345;84728;NC;345;
+2020;94;Corse;Accidents du travail;2891;84728;NC;2891;
+2020;94;Corse;Maladies professionnelles;159;84728;NC;159;
+2020;94;Corse;Tous risques confondus;3395;84728;NC;3395;
+2020;99;FRANCE;Accidents de trajet;79144;19343929;NC;79144;
+2020;99;FRANCE;Accidents du travail;538691;19343929;NC;538691;
+2020;99;FRANCE;Maladies professionnelles;38153;19343929;NC;38153;
+2020;99;FRANCE;Tous risques confondus;655988;19343929;NC;655988;
+2021;01;Guadeloupe;Accidents de trajet;223;89638;2,5;223;2.5
+2021;01;Guadeloupe;Accidents du travail;1911;89638;21,3;1911;21.3
+2021;01;Guadeloupe;Maladies professionnelles;54;89638;NC;54;
+2021;01;Guadeloupe;Tous risques confondus;2188;89638;NC;2188;
+2021;02;Martinique;Accidents de trajet;246;91933;2,7;246;2.7
+2021;02;Martinique;Accidents du travail;2341;91933;25,5;2341;25.5
+2021;02;Martinique;Maladies professionnelles;73;91933;NC;73;
+2021;02;Martinique;Tous risques confondus;2660;91933;NC;2660;
+2021;03;Guyane;Accidents de trajet;36;45380;0,8;36;0.8
+2021;03;Guyane;Accidents du travail;340;45380;7,5;340;7.5
+2021;03;Guyane;Maladies professionnelles;5;45380;NC;5;
+2021;03;Guyane;Tous risques confondus;381;45380;NC;381;
+2021;04;La Réunion;Accidents de trajet;799;210168;3,8;799;3.8
+2021;04;La Réunion;Accidents du travail;6437;210168;30,6;6437;30.6
+2021;04;La Réunion;Maladies professionnelles;346;210168;NC;346;
+2021;04;La Réunion;Tous risques confondus;7582;210168;NC;7582;
+2021;06;Mayotte;Accidents de trajet;5;42309;0,1;5;0.1
+2021;06;Mayotte;Accidents du travail;5;42309;0,1;5;0.1
+2021;06;Mayotte;Maladies professionnelles;0;42309;NC;0;
+2021;06;Mayotte;Tous risques confondus;10;42309;NC;10;
+2021;11;Ile-de-France;Accidents de trajet;22405;5051933;4,4;22405;4.4
+2021;11;Ile-de-France;Accidents du travail;89275;5051933;17,7;89275;17.7
+2021;11;Ile-de-France;Maladies professionnelles;5694;5051933;NC;5694;
+2021;11;Ile-de-France;Tous risques confondus;117374;5051933;NC;117374;
+2021;24;Centre-Val de Loire;Accidents de trajet;2706;671540;4,0;2706;4.0
+2021;24;Centre-Val de Loire;Accidents du travail;21632;671540;32,2;21632;32.2
+2021;24;Centre-Val de Loire;Maladies professionnelles;1215;671540;NC;1215;
+2021;24;Centre-Val de Loire;Tous risques confondus;25553;671540;NC;25553;
+2021;27;Bourgogne-Franche-Comté;Accidents de trajet;2836;714536;4,0;2836;4.0
+2021;27;Bourgogne-Franche-Comté;Accidents du travail;24651;714536;34,5;24651;34.5
+2021;27;Bourgogne-Franche-Comté;Maladies professionnelles;2058;714536;NC;2058;
+2021;27;Bourgogne-Franche-Comté;Tous risques confondus;29545;714536;NC;29545;
+2021;28;Normandie;Accidents de trajet;3630;903247;4,0;3630;4.0
+2021;28;Normandie;Accidents du travail;30808;903247;34,1;30808;34.1
+2021;28;Normandie;Maladies professionnelles;2886;903247;NC;2886;
+2021;28;Normandie;Tous risques confondus;37324;903247;NC;37324;
+2021;32;Hauts-de-France;Accidents de trajet;6449;1578424;4,1;6449;4.1
+2021;32;Hauts-de-France;Accidents du travail;56679;1578424;35,9;56679;35.9
+2021;32;Hauts-de-France;Maladies professionnelles;4388;1578424;NC;4388;
+2021;32;Hauts-de-France;Tous risques confondus;67516;1578424;NC;67516;
+2021;44;Grand Est;Accidents de trajet;5793;1455405;4,0;5793;4.0
+2021;44;Grand Est;Accidents du travail;44970;1455405;30,9;44970;30.9
+2021;44;Grand Est;Maladies professionnelles;4636;1455405;NC;4636;
+2021;44;Grand Est;Tous risques confondus;55399;1455405;NC;55399;
+2021;52;Pays de la Loire;Accidents de trajet;5162;1162381;4,4;5162;4.4
+2021;52;Pays de la Loire;Accidents du travail;43644;1162381;37,5;43644;37.5
+2021;52;Pays de la Loire;Maladies professionnelles;4750;1162381;NC;4750;
+2021;52;Pays de la Loire;Tous risques confondus;53556;1162381;NC;53556;
+2021;53;Bretagne;Accidents de trajet;3588;918539;3,9;3588;3.9
+2021;53;Bretagne;Accidents du travail;35548;918539;38,7;35548;38.7
+2021;53;Bretagne;Maladies professionnelles;3077;918539;NC;3077;
+2021;53;Bretagne;Tous risques confondus;42213;918539;NC;42213;
+2021;75;Nouvelle-Aquitaine;Accidents de trajet;6894;1589685;4,3;6894;4.3
+2021;75;Nouvelle-Aquitaine;Accidents du travail;58814;1589685;37,0;58814;37.0
+2021;75;Nouvelle-Aquitaine;Maladies professionnelles;4973;1589685;NC;4973;
+2021;75;Nouvelle-Aquitaine;Tous risques confondus;70681;1589685;NC;70681;
+2021;76;Occitanie;Accidents de trajet;6964;1558285;4,5;6964;4.5
+2021;76;Occitanie;Accidents du travail;54154;1558285;34,8;54154;34.8
+2021;76;Occitanie;Maladies professionnelles;2281;1558285;NC;2281;
+2021;76;Occitanie;Tous risques confondus;63399;1558285;NC;63399;
+2021;84;Auvergne-Rhône-Alpes;Accidents de trajet;11126;2439804;4,6;11126;4.6
+2021;84;Auvergne-Rhône-Alpes;Accidents du travail;79707;2439804;32,7;79707;32.7
+2021;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5579;2439804;NC;5579;
+2021;84;Auvergne-Rhône-Alpes;Tous risques confondus;96412;2439804;NC;96412;
+2021;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;9591;1449262;6,6;9591;6.6
+2021;93;Provence-Alpes-Côte d'Azur;Accidents du travail;48931;1449262;33,8;48931;33.8
+2021;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2044;1449262;NC;2044;
+2021;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;60566;1449262;NC;60566;
+2021;94;Corse;Accidents de trajet;455;90704;5,0;455;5.0
+2021;94;Corse;Accidents du travail;3268;90704;36,0;3268;36.0
+2021;94;Corse;Maladies professionnelles;180;90704;NC;180;
+2021;94;Corse;Tous risques confondus;3903;90704;NC;3903;
+2021;99;FRANCE;Accidents de trajet;88908;20063173;4,4;88908;4.4
+2021;99;FRANCE;Accidents du travail;603115;20063173;30,1;603115;30.1
+2021;99;FRANCE;Maladies professionnelles;44239;20063173;NC;44239;
+2021;99;FRANCE;Tous risques confondus;736262;20063173;NC;736262;
+2022;01;Guadeloupe;Accidents de trajet;205;99777;2,1;205;2.1
+2022;01;Guadeloupe;Accidents du travail;1495;99777;15,0;1495;15.0
+2022;01;Guadeloupe;Maladies professionnelles;69;99777;NC;69;
+2022;01;Guadeloupe;Tous risques confondus;1769;99777;NC;1769;
+2022;02;Martinique;Accidents de trajet;260;98956;2,6;260;2.6
+2022;02;Martinique;Accidents du travail;1962;98956;19,8;1962;19.8
+2022;02;Martinique;Maladies professionnelles;67;98956;NC;67;
+2022;02;Martinique;Tous risques confondus;2289;98956;NC;2289;
+2022;03;Guyane;Accidents de trajet;38;48441;0,8;38;0.8
+2022;03;Guyane;Accidents du travail;314;48441;6,5;314;6.5
+2022;03;Guyane;Maladies professionnelles;13;48441;NC;13;
+2022;03;Guyane;Tous risques confondus;365;48441;NC;365;
+2022;04;La Réunion;Accidents de trajet;775;223740;3,5;775;3.5
+2022;04;La Réunion;Accidents du travail;5674;223740;25,4;5674;25.4
+2022;04;La Réunion;Maladies professionnelles;303;223740;NC;303;
+2022;04;La Réunion;Tous risques confondus;6752;223740;NC;6752;
+2022;06;Mayotte;Accidents de trajet;0;37308;0,0;0;0.0
+2022;06;Mayotte;Accidents du travail;3;37308;0,1;3;0.1
+2022;06;Mayotte;Maladies professionnelles;1;37308;NC;1;
+2022;06;Mayotte;Tous risques confondus;4;37308;NC;4;
+2022;11;Ile-de-France;Accidents de trajet;21473;5167453;4,2;21473;4.2
+2022;11;Ile-de-France;Accidents du travail;84046;5167453;16,3;84046;16.3
+2022;11;Ile-de-France;Maladies professionnelles;5357;5167453;NC;5357;
+2022;11;Ile-de-France;Tous risques confondus;110876;5167453;NC;110876;
+2022;24;Centre-Val de Loire;Accidents de trajet;2865;679885;4,2;2865;4.2
+2022;24;Centre-Val de Loire;Accidents du travail;21314;679885;31,3;21314;31.3
+2022;24;Centre-Val de Loire;Maladies professionnelles;1312;679885;NC;1312;
+2022;24;Centre-Val de Loire;Tous risques confondus;25491;679885;NC;25491;
+2022;27;Bourgogne-Franche-Comté;Accidents de trajet;2793;729249;3,8;2793;3.8
+2022;27;Bourgogne-Franche-Comté;Accidents du travail;22211;729249;30,5;22211;30.5
+2022;27;Bourgogne-Franche-Comté;Maladies professionnelles;1999;729249;NC;1999;
+2022;27;Bourgogne-Franche-Comté;Tous risques confondus;27003;729249;NC;27003;
+2022;28;Normandie;Accidents de trajet;3706;925077;4,0;3706;4.0
+2022;28;Normandie;Accidents du travail;28745;925077;31,1;28745;31.1
+2022;28;Normandie;Maladies professionnelles;2618;925077;NC;2618;
+2022;28;Normandie;Tous risques confondus;35069;925077;NC;35069;
+2022;32;Hauts-de-France;Accidents de trajet;6549;1615198;4,1;6549;4.1
+2022;32;Hauts-de-France;Accidents du travail;53631;1615198;33,2;53631;33.2
+2022;32;Hauts-de-France;Maladies professionnelles;4207;1615198;NC;4207;
+2022;32;Hauts-de-France;Tous risques confondus;64387;1615198;NC;64387;
+2022;44;Grand Est;Accidents de trajet;5288;1500784;3,5;5288;3.5
+2022;44;Grand Est;Accidents du travail;40350;1500784;26,9;40350;26.9
+2022;44;Grand Est;Maladies professionnelles;4157;1500784;NC;4157;
+2022;44;Grand Est;Tous risques confondus;49795;1500784;NC;49795;
+2022;52;Pays de la Loire;Accidents de trajet;4714;1195316;3,9;4714;3.9
+2022;52;Pays de la Loire;Accidents du travail;36631;1195316;30,6;36631;30.6
+2022;52;Pays de la Loire;Maladies professionnelles;4026;1195316;NC;4026;
+2022;52;Pays de la Loire;Tous risques confondus;45371;1195316;NC;45371;
+2022;53;Bretagne;Accidents de trajet;3239;937857;3,5;3239;3.5
+2022;53;Bretagne;Accidents du travail;31657;937857;33,8;31657;33.8
+2022;53;Bretagne;Maladies professionnelles;2849;937857;NC;2849;
+2022;53;Bretagne;Tous risques confondus;37745;937857;NC;37745;
+2022;75;Nouvelle-Aquitaine;Accidents de trajet;7214;1666358;4,3;7214;4.3
+2022;75;Nouvelle-Aquitaine;Accidents du travail;54556;1666358;32,7;54556;32.7
+2022;75;Nouvelle-Aquitaine;Maladies professionnelles;4526;1666358;NC;4526;
+2022;75;Nouvelle-Aquitaine;Tous risques confondus;66296;1666358;NC;66296;
+2022;76;Occitanie;Accidents de trajet;7643;1624365;4,7;7643;4.7
+2022;76;Occitanie;Accidents du travail;51831;1624365;31,9;51831;31.9
+2022;76;Occitanie;Maladies professionnelles;2309;1624365;NC;2309;
+2022;76;Occitanie;Tous risques confondus;61783;1624365;NC;61783;
+2022;84;Auvergne-Rhône-Alpes;Accidents de trajet;11788;2526907;4,7;11788;4.7
+2022;84;Auvergne-Rhône-Alpes;Accidents du travail;77525;2526907;30,7;77525;30.7
+2022;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5505;2526907;NC;5505;
+2022;84;Auvergne-Rhône-Alpes;Tous risques confondus;94818;2526907;NC;94818;
+2022;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;10219;1500788;6,8;10219;6.8
+2022;93;Provence-Alpes-Côte d'Azur;Accidents du travail;47787;1500788;31,8;47787;31.8
+2022;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2158;1500788;NC;2158;
+2022;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;60164;1500788;NC;60164;
+2022;94;Corse;Accidents de trajet;408;94238;4,3;408;4.3
+2022;94;Corse;Accidents du travail;3163;94238;33,6;3163;33.6
+2022;94;Corse;Maladies professionnelles;156;94238;NC;156;
+2022;94;Corse;Tous risques confondus;3727;94238;NC;3727;
+2022;99;FRANCE;Accidents de trajet;89177;20671697;4,3;89177;4.3
+2022;99;FRANCE;Accidents du travail;562895;20671697;27,2;562895;27.2
+2022;99;FRANCE;Maladies professionnelles;41632;20671697;NC;41632;
+2022;99;FRANCE;Tous risques confondus;693704;20671697;NC;693704;
+2023;01;Guadeloupe;Accidents de trajet;234;98791;2,4;234;2.4
+2023;01;Guadeloupe;Accidents du travail;1499;98791;15,2;1499;15.2
+2023;01;Guadeloupe;Maladies professionnelles;80;98791;NC;80;
+2023;01;Guadeloupe;Tous risques confondus;1813;98791;NC;1813;
+2023;02;Martinique;Accidents de trajet;274;97945;2,8;274;2.8
+2023;02;Martinique;Accidents du travail;2238;97945;22,8;2238;22.8
+2023;02;Martinique;Maladies professionnelles;79;97945;NC;79;
+2023;02;Martinique;Tous risques confondus;2591;97945;NC;2591;
+2023;03;Guyane;Accidents de trajet;41;50937;0,8;41;0.8
+2023;03;Guyane;Accidents du travail;321;50937;6,3;321;6.3
+2023;03;Guyane;Maladies professionnelles;12;50937;NC;12;
+2023;03;Guyane;Tous risques confondus;374;50937;NC;374;
+2023;04;La Réunion;Accidents de trajet;867;222493;3,9;867;3.9
+2023;04;La Réunion;Accidents du travail;6151;222493;27,6;6151;27.6
+2023;04;La Réunion;Maladies professionnelles;314;222493;NC;314;
+2023;04;La Réunion;Tous risques confondus;7332;222493;NC;7332;
+2023;06;Mayotte;Accidents de trajet;3;38460;0,1;3;0.1
+2023;06;Mayotte;Accidents du travail;10;38460;0,3;10;0.3
+2023;06;Mayotte;Maladies professionnelles;0;38460;NC;0;
+2023;06;Mayotte;Tous risques confondus;13;38460;NC;13;
+2023;11;Ile-de-France;Accidents de trajet;22687;5249110;4,3;22687;4.3
+2023;11;Ile-de-France;Accidents du travail;81533;5249110;15,5;81533;15.5
+2023;11;Ile-de-France;Maladies professionnelles;5501;5249110;NC;5501;
+2023;11;Ile-de-France;Tous risques confondus;109721;5249110;NC;109721;
+2023;24;Centre-Val de Loire;Accidents de trajet;3050;680330;4,5;3050;4.5
+2023;24;Centre-Val de Loire;Accidents du travail;20786;680330;30,6;20786;30.6
+2023;24;Centre-Val de Loire;Maladies professionnelles;1370;680330;NC;1370;
+2023;24;Centre-Val de Loire;Tous risques confondus;25206;680330;NC;25206;
+2023;27;Bourgogne-Franche-Comté;Accidents de trajet;2874;727207;4,0;2874;4.0
+2023;27;Bourgogne-Franche-Comté;Accidents du travail;21682;727207;29,8;21682;29.8
+2023;27;Bourgogne-Franche-Comté;Maladies professionnelles;1923;727207;NC;1923;
+2023;27;Bourgogne-Franche-Comté;Tous risques confondus;26479;727207;NC;26479;
+2023;28;Normandie;Accidents de trajet;3962;923444;4,3;3962;4.3
+2023;28;Normandie;Accidents du travail;27721;923444;30,0;27721;30.0
+2023;28;Normandie;Maladies professionnelles;2705;923444;NC;2705;
+2023;28;Normandie;Tous risques confondus;34388;923444;NC;34388;
+2023;32;Hauts-de-France;Accidents de trajet;6959;1593983;4,4;6959;4.4
+2023;32;Hauts-de-France;Accidents du travail;51926;1593983;32,6;51926;32.6
+2023;32;Hauts-de-France;Maladies professionnelles;4679;1593983;NC;4679;
+2023;32;Hauts-de-France;Tous risques confondus;63564;1593983;NC;63564;
+2023;44;Grand Est;Accidents de trajet;6048;1491171;4,1;6048;4.1
+2023;44;Grand Est;Accidents du travail;40843;1491171;27,4;40843;27.4
+2023;44;Grand Est;Maladies professionnelles;4565;1491171;NC;4565;
+2023;44;Grand Est;Tous risques confondus;51456;1491171;NC;51456;
+2023;52;Pays de la Loire;Accidents de trajet;5508;1200587;4,6;5508;4.6
+2023;52;Pays de la Loire;Accidents du travail;39718;1200587;33,1;39718;33.1
+2023;52;Pays de la Loire;Maladies professionnelles;4528;1200587;NC;4528;
+2023;52;Pays de la Loire;Tous risques confondus;49754;1200587;NC;49754;
+2023;53;Bretagne;Accidents de trajet;3688;944521;3,9;3688;3.9
+2023;53;Bretagne;Accidents du travail;32460;944521;34,4;32460;34.4
+2023;53;Bretagne;Maladies professionnelles;3204;944521;NC;3204;
+2023;53;Bretagne;Tous risques confondus;39352;944521;NC;39352;
+2023;75;Nouvelle-Aquitaine;Accidents de trajet;7591;1651120;4,6;7591;4.6
+2023;75;Nouvelle-Aquitaine;Accidents du travail;54221;1651120;32,8;54221;32.8
+2023;75;Nouvelle-Aquitaine;Maladies professionnelles;4910;1651120;NC;4910;
+2023;75;Nouvelle-Aquitaine;Tous risques confondus;66722;1651120;NC;66722;
+2023;76;Occitanie;Accidents de trajet;7595;1631998;4,7;7595;4.7
+2023;76;Occitanie;Accidents du travail;50675;1631998;31,1;50675;31.1
+2023;76;Occitanie;Maladies professionnelles;2733;1631998;NC;2733;
+2023;76;Occitanie;Tous risques confondus;61003;1631998;NC;61003;
+2023;84;Auvergne-Rhône-Alpes;Accidents de trajet;11969;2536987;4,7;11969;4.7
+2023;84;Auvergne-Rhône-Alpes;Accidents du travail;73924;2536987;29,1;73924;29.1
+2023;84;Auvergne-Rhône-Alpes;Maladies professionnelles;5932;2536987;NC;5932;
+2023;84;Auvergne-Rhône-Alpes;Tous risques confondus;91825;2536987;NC;91825;
+2023;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;10024;1503296;6,7;10024;6.7
+2023;93;Provence-Alpes-Côte d'Azur;Accidents du travail;45943;1503296;30,6;45943;30.6
+2023;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2187;1503296;NC;2187;
+2023;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;58154;1503296;NC;58154;
+2023;94;Corse;Accidents de trajet;403;94841;4,2;403;4.2
+2023;94;Corse;Accidents du travail;2942;94841;31,0;2942;31.0
+2023;94;Corse;Maladies professionnelles;183;94841;NC;183;
+2023;94;Corse;Tous risques confondus;3528;94841;NC;3528;
+2023;99;FRANCE;Accidents de trajet;93777;20737221;4,5;93777;4.5
+2023;99;FRANCE;Accidents du travail;554593;20737221;26,7;554593;26.7
+2023;99;FRANCE;Maladies professionnelles;44905;20737221;NC;44905;
+2023;99;FRANCE;Tous risques confondus;693275;20737221;NC;693275;
+2024;01;Guadeloupe;Accidents de trajet;257;99102;2,6;257;2.6
+2024;01;Guadeloupe;Accidents du travail;1671;99102;16,9;1671;16.9
+2024;01;Guadeloupe;Maladies professionnelles;97;99102;NC;97;
+2024;01;Guadeloupe;Tous risques confondus;2025;99102;NC;2025;
+2024;02;Martinique;Accidents de trajet;302;97935;3,1;302;3.1
+2024;02;Martinique;Accidents du travail;2220;97935;22,7;2220;22.7
+2024;02;Martinique;Maladies professionnelles;117;97935;NC;117;
+2024;02;Martinique;Tous risques confondus;2639;97935;NC;2639;
+2024;03;Guyane;Accidents de trajet;63;51987;1,2;63;1.2
+2024;03;Guyane;Accidents du travail;281;51987;5,4;281;5.4
+2024;03;Guyane;Maladies professionnelles;18;51987;NC;18;
+2024;03;Guyane;Tous risques confondus;362;51987;NC;362;
+2024;04;La Réunion;Accidents de trajet;956;222888;4,3;956;4.3
+2024;04;La Réunion;Accidents du travail;6537;222888;29,3;6537;29.3
+2024;04;La Réunion;Maladies professionnelles;381;222888;NC;381;
+2024;04;La Réunion;Tous risques confondus;7874;222888;NC;7874;
+2024;06;Mayotte;Accidents de trajet;4;38204;0,1;4;0.1
+2024;06;Mayotte;Accidents du travail;3;38204;0,1;3;0.1
+2024;06;Mayotte;Maladies professionnelles;1;38204;NC;1;
+2024;06;Mayotte;Tous risques confondus;8;38204;NC;8;
+2024;11;Ile-de-France;Accidents de trajet;23562;5285552;4,5;23562;4.5
+2024;11;Ile-de-France;Accidents du travail;81628;5285552;15,4;81628;15.4
+2024;11;Ile-de-France;Maladies professionnelles;6159;5285552;NC;6159;
+2024;11;Ile-de-France;Tous risques confondus;111349;5285552;NC;111349;
+2024;24;Centre-Val de Loire;Accidents de trajet;2949;681535;4,3;2949;4.3
+2024;24;Centre-Val de Loire;Accidents du travail;20186;681535;29,6;20186;29.6
+2024;24;Centre-Val de Loire;Maladies professionnelles;1536;681535;NC;1536;
+2024;24;Centre-Val de Loire;Tous risques confondus;24671;681535;NC;24671;
+2024;27;Bourgogne-Franche-Comté;Accidents de trajet;2952;721886;4,1;2952;4.1
+2024;27;Bourgogne-Franche-Comté;Accidents du travail;21173;721886;29,3;21173;29.3
+2024;27;Bourgogne-Franche-Comté;Maladies professionnelles;2136;721886;NC;2136;
+2024;27;Bourgogne-Franche-Comté;Tous risques confondus;26261;721886;NC;26261;
+2024;28;Normandie;Accidents de trajet;3993;922346;4,3;3993;4.3
+2024;28;Normandie;Accidents du travail;27741;922346;30,1;27741;30.1
+2024;28;Normandie;Maladies professionnelles;3037;922346;NC;3037;
+2024;28;Normandie;Tous risques confondus;34771;922346;NC;34771;
+2024;32;Hauts-de-France;Accidents de trajet;7090;1595433;4,4;7090;4.4
+2024;32;Hauts-de-France;Accidents du travail;50724;1595433;31,8;50724;31.8
+2024;32;Hauts-de-France;Maladies professionnelles;4899;1595433;NC;4899;
+2024;32;Hauts-de-France;Tous risques confondus;62713;1595433;NC;62713;
+2024;44;Grand Est;Accidents de trajet;6268;1482089;4,2;6268;4.2
+2024;44;Grand Est;Accidents du travail;41380;1482089;27,9;41380;27.9
+2024;44;Grand Est;Maladies professionnelles;4914;1482089;NC;4914;
+2024;44;Grand Est;Tous risques confondus;52562;1482089;NC;52562;
+2024;52;Pays de la Loire;Accidents de trajet;5183;1204909;4,3;5183;4.3
+2024;52;Pays de la Loire;Accidents du travail;38541;1204909;32,0;38541;32.0
+2024;52;Pays de la Loire;Maladies professionnelles;4254;1204909;NC;4254;
+2024;52;Pays de la Loire;Tous risques confondus;47978;1204909;NC;47978;
+2024;53;Bretagne;Accidents de trajet;3612;951518;3,8;3612;3.8
+2024;53;Bretagne;Accidents du travail;32914;951518;34,6;32914;34.6
+2024;53;Bretagne;Maladies professionnelles;3397;951518;NC;3397;
+2024;53;Bretagne;Tous risques confondus;39923;951518;NC;39923;
+2024;75;Nouvelle-Aquitaine;Accidents de trajet;7287;1650907;4,4;7287;4.4
+2024;75;Nouvelle-Aquitaine;Accidents du travail;53037;1650907;32,1;53037;32.1
+2024;75;Nouvelle-Aquitaine;Maladies professionnelles;5152;1650907;NC;5152;
+2024;75;Nouvelle-Aquitaine;Tous risques confondus;65476;1650907;NC;65476;
+2024;76;Occitanie;Accidents de trajet;7392;1632552;4,5;7392;4.5
+2024;76;Occitanie;Accidents du travail;48997;1632552;30,0;48997;30.0
+2024;76;Occitanie;Maladies professionnelles;2879;1632552;NC;2879;
+2024;76;Occitanie;Tous risques confondus;59268;1632552;NC;59268;
+2024;84;Auvergne-Rhône-Alpes;Accidents de trajet;11881;2551877;4,7;11881;4.7
+2024;84;Auvergne-Rhône-Alpes;Accidents du travail;72532;2551877;28,4;72532;28.4
+2024;84;Auvergne-Rhône-Alpes;Maladies professionnelles;6356;2551877;NC;6356;
+2024;84;Auvergne-Rhône-Alpes;Tous risques confondus;90769;2551877;NC;90769;
+2024;93;Provence-Alpes-Côte d'Azur;Accidents de trajet;10255;1513721;6,8;10255;6.8
+2024;93;Provence-Alpes-Côte d'Azur;Accidents du travail;45867;1513721;30,3;45867;30.3
+2024;93;Provence-Alpes-Côte d'Azur;Maladies professionnelles;2517;1513721;NC;2517;
+2024;93;Provence-Alpes-Côte d'Azur;Tous risques confondus;58639;1513721;NC;58639;
+2024;94;Corse;Accidents de trajet;425;94556;4,5;425;4.5
+2024;94;Corse;Accidents du travail;3118;94556;33,0;3118;33.0
+2024;94;Corse;Maladies professionnelles;186;94556;NC;186;
+2024;94;Corse;Tous risques confondus;3729;94556;NC;3729;
+2024;99;FRANCE;Accidents de trajet;94431;20798997;4,5;94431;4.5
+2024;99;FRANCE;Accidents du travail;548550;20798997;26,4;548550;26.4
+2024;99;FRANCE;Maladies professionnelles;48036;20798997;NC;48036;
+2024;99;FRANCE;Tous risques confondus;691017;20798997;NC;691017;
